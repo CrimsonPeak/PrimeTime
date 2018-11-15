@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="history_All">
+        <item>	12 Strong (2018)	</item>
+        <item>	Darkest Hour (2017)	</item>
+        <item>	Dunkirk (2017)	</item>
+        <item>	The Post (2017)	</item>
+        <item>	The Zookeepers Wife (2017)	</item>
+        <item>	Victoria and Abdul (2017)	</item>
+        <item>	First They Killed My Father (2017)	</item>
+        <item>	Hacksaw Ridge (2016)	</item>
+        <item>	Patriots Day (2016)	</item>
+        <item>	Hidden Figures (2016)	</item>
+        <item>	The Lost City of Z (2016)	</item>
+        <item>	13 Hours (2016)	</item>
+        <item>	Silence (2016)	</item>
+        <item>	The Founder (2016)	</item>
+        <item>	The Finest Hours (2016)	</item>
+        <item>	Jackie (2016)	</item>
+        <item>	Anthropoid (2016)	</item>
+        <item>	Free State of Jones (2016)	</item>
+        <item>	Neruda (2016)	</item>
+        <item>	The Revenant (2015)	</item>
+        <item>	In the Heart of the Sea (2015)	</item>
+        <item>	Bridge of Spies (2015)	</item>
+        <item>	Spotlight (2015)	</item>
+        <item>	The Big Short (2015)	</item>
+        <item>	Straight Outta Compton (2015)	</item>
+        <item>	The Stanford Prison Experiment (2015)	</item>
+        <item>	Macbeth (2015)	</item>
+        <item>	The 33 (2015)	</item>
+        <item>	Little Boy (2015)	</item>
+        <item>	Truth (2015)	</item>
+        <item>	Experimenter (2015)	</item>
+        <item>	The Imitation Game (2014)	</item>
+        <item>	American Sniper (2014)	</item>
+        <item>	Selma (2014)	</item>
+        <item>	The Water Diviner (2014)	</item>
+        <item>	Difret (2014)	</item>
+        <item>	Rush (2013)	</item>
+        <item>	12 Years a Slave (2013)	</item>
+        <item>	Les Misérables (2012)	</item>
+        <item>	Lincoln (2012)	</item>
+        <item>	Emperor (2012)	</item>
+        <item>	The Third Half (2012)	</item>
+        <item>	The Way Back (2010)	</item>
+        <item>	Robin Hood (2010)	</item>
+        <item>	The Conspirator (2010)	</item>
+        <item>	Secretariat (2010)	</item>
+        <item>	Public Enemies (2009)	</item>
+        <item>	The Young Victoria (2009)	</item>
+        <item>	Invictus (2009)	</item>
+        <item>	The Hurt Locker (2008)	</item>
+        <item>	Defiance (2008)	</item>
+        <item>	Valkyrie (2008)	</item>
+        <item>	The Other Boleyn Girl (2008)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	The Duchess (2008)	</item>
+        <item>	Frost/Nixon (2008)	</item>
+        <item>	Waltz with Bashir (2008)	</item>
+        <item>	Zodiac (2007)	</item>
+        <item>	Charlie Wilsons War (2007)	</item>
+        <item>	The Assassination of Jesse James by the Coward Robert Ford (2007)	</item>
+        <item>	Elizabeth - The Golden Age (2007)	</item>
+        <item>	Breach (2007)	</item>
+        <item>	A Mighty Heart (2007)	</item>
+        <item>	Talk to Me (2007)	</item>
+        <item>	Nanking (2007)	</item>
+        <item>	Honeydripper (2007)	</item>
+        <item>	The Good Shepherd (2006)	</item>
+        <item>	Flags of our Fathers (2006)	</item>
+        <item>	Letters from Iwo Jima (2006)	</item>
+        <item>	United 93 (2006)	</item>
+        <item>	Flyboys (2006)	</item>
+        <item>	Hollywoodland (2006)	</item>
+        <item>	Bobby (2006)	</item>
+        <item>	Amazing Grace (2006)	</item>
+        <item>	Goyas Ghosts (2006)	</item>
+        <item>	The Nativity Story (2006)	</item>
+        <item>	Catch a Fire (2006)	</item>
+    </string-array>
+
+    <string-array name="history_2018">
+        <item>	12 Strong (2018)	</item>
+    </string-array>
+
+    <string-array name="history_2017">
+        <item>	Darkest Hour (2017)	</item>
+        <item>	Dunkirk (2017)	</item>
+        <item>	The Post (2017)	</item>
+        <item>	The Zookeepers Wife (2017)	</item>
+        <item>	Victoria and Abdul (2017)	</item>
+        <item>	First They Killed My Father (2017)	</item>
+    </string-array>
+
+    <string-array name="history_2016">
+        <item>	Hacksaw Ridge (2016)	</item>
+        <item>	Patriots Day (2016)	</item>
+        <item>	Hidden Figures (2016)	</item>
+        <item>	The Lost City of Z (2016)	</item>
+        <item>	13 Hours (2016)	</item>
+        <item>	Silence (2016)	</item>
+        <item>	The Founder (2016)	</item>
+        <item>	The Finest Hours (2016)	</item>
+        <item>	Jackie (2016)	</item>
+        <item>	Anthropoid (2016)	</item>
+        <item>	Free State of Jones (2016)	</item>
+        <item>	Neruda (2016)	</item>
+    </string-array>
+
+    <string-array name="history_2015">
+        <item>	The Revenant (2015)	</item>
+        <item>	In the Heart of the Sea (2015)	</item>
+        <item>	Bridge of Spies (2015)	</item>
+        <item>	Spotlight (2015)	</item>
+        <item>	The Big Short (2015)	</item>
+        <item>	Straight Outta Compton (2015)	</item>
+        <item>	The Stanford Prison Experiment (2015)	</item>
+        <item>	Macbeth (2015)	</item>
+        <item>	The 33 (2015)	</item>
+        <item>	Little Boy (2015)	</item>
+        <item>	Truth (2015)	</item>
+        <item>	Experimenter (2015)	</item>
+    </string-array>
+
+    <string-array name="history_2014">
+        <item>	The Imitation Game (2014)	</item>
+        <item>	American Sniper (2014)	</item>
+        <item>	Selma (2014)	</item>
+        <item>	The Water Diviner (2014)	</item>
+        <item>	Difret (2014)	</item>
+    </string-array>
+
+    <string-array name="history_2013">
+        <item>	Rush (2013)	</item>
+        <item>	12 Years a Slave (2013)	</item>
+    </string-array>
+
+    <string-array name="history_2012">
+        <item>	Les Misérables (2012)	</item>
+        <item>	Lincoln (2012)	</item>
+        <item>	Emperor (2012)	</item>
+        <item>	The Third Half (2012)	</item>
+    </string-array>
+
+    <string-array name="history_2011">
+    </string-array>
+
+    <string-array name="history_2010">
+        <item>	The Way Back (2010)	</item>
+        <item>	Robin Hood (2010)	</item>
+        <item>	The Conspirator (2010)	</item>
+        <item>	Secretariat (2010)	</item>
+    </string-array>
+
+    <string-array name="history_2009">
+        <item>	Public Enemies (2009)	</item>
+        <item>	The Young Victoria (2009)	</item>
+        <item>	Invictus (2009)	</item>
+    </string-array>
+
+    <string-array name="history_2008">
+        <item>	The Hurt Locker (2008)	</item>
+        <item>	Defiance (2008)	</item>
+        <item>	Valkyrie (2008)	</item>
+        <item>	The Other Boleyn Girl (2008)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	The Duchess (2008)	</item>
+        <item>	Frost/Nixon (2008)	</item>
+        <item>	Waltz with Bashir (2008)	</item>
+    </string-array>
+
+    <string-array name="history_2007">
+        <item>	Zodiac (2007)	</item>
+        <item>	Charlie Wilsons War (2007)	</item>
+        <item>	The Assassination of Jesse James by the Coward Robert Ford (2007)	</item>
+        <item>	Elizabeth - The Golden Age (2007)	</item>
+        <item>	Breach (2007)	</item>
+        <item>	A Mighty Heart (2007)	</item>
+        <item>	Talk to Me (2007)	</item>
+        <item>	Nanking (2007)	</item>
+        <item>	Honeydripper (2007)	</item>
+    </string-array>
+
+    <string-array name="history_2006">
+        <item>	The Good Shepherd (2006)	</item>
+        <item>	Flags of our Fathers (2006)	</item>
+        <item>	Letters from Iwo Jima (2006)	</item>
+        <item>	United 93 (2006)	</item>
+        <item>	Flyboys (2006)	</item>
+        <item>	Hollywoodland (2006)	</item>
+        <item>	Bobby (2006)	</item>
+        <item>	Amazing Grace (2006)	</item>
+        <item>	Goyas Ghosts (2006)	</item>
+        <item>	The Nativity Story (2006)	</item>
+        <item>	Catch a Fire (2006)	</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="action_2016">
+        <item>X-Men - Apocalypse (2016)</item>
+        <item>Teenage Mutant Ninja Turtles - Out of the Shadows (2016)</item>
+        <item>Suicide Squad (2016)</item>
+    </string-array>
+
+    <string-array name="action_2015">
+        <item>Star Trek Beyond (2015)</item>
+        <item>Ride Along 2 (2015)</item>
+        <item>Mechanic - Resurrection (2015)</item>
+    </string-array>
+
+    <string-array name="action_2014">
+        <item>Max Steel (2014)</item>
+        <item>London Has Fallen (2014)</item>
+        <item>The Legend of Tarzan (2014)</item>
+    </string-array>
+
+</resources>

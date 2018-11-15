@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="comedy_All">
+        <item>	Isle of Dogs (2018)	</item>
+        <item>	Love, Simon (2018)	</item>
+        <item>	Game Night (2018)	</item>
+        <item>	Jumanji - Welcome to the Jungle (2017)	</item>
+        <item>	I, Tonya (2017)	</item>
+        <item>	Lady Bird (2017)	</item>
+        <item>	The Death of Stalin (2017)	</item>
+        <item>	The Disaster Artist (2017)	</item>
+        <item>	Logan Lucky (2017)	</item>
+        <item>	The Hitmans Bodyguard (2017)	</item>
+        <item>	American Made (2017)	</item>
+        <item>	The Big Sick (2017)	</item>
+        <item>	Lucky (2017)	</item>
+        <item>	Last Flag Flying (2017)	</item>
+        <item>	A Dogs Purpose (2017)	</item>
+        <item>	I Dont Feel at Home in This World Anymore. (2017)	</item>
+        <item>	Brigsby Bear (2017)	</item>
+        <item>	Deadpool (2016)	</item>
+        <item>	La La Land (2016)	</item>
+        <item>	The Edge of Seventeen (2016)	</item>
+        <item>	Captain Fantastic (2016)	</item>
+        <item>	The Nice Guys (2016)	</item>
+        <item>	War Dogs (2016)	</item>
+        <item>	Swiss Army Man (2016)	</item>
+        <item>	Paterson (2016)	</item>
+        <item>	Sing Street (2016)	</item>
+        <item>	Eddie the Eagle (2016)	</item>
+        <item>	20th Century Women (2016)	</item>
+        <item>	The Fundamentals of Caring (2016)	</item>
+        <item>	Mr. Church (2016)	</item>
+        <item>	This Beautiful Fantastic (2016)	</item>
+        <item>	The Rack Pack (2016)	</item>
+        <item>	The Man from U.N.C.L.E. (2015)	</item>
+        <item>	Ant-Man (2015)	</item>
+        <item>	The Big Short (2015)	</item>
+        <item>	The Intern (2015)	</item>
+        <item>	The Lobster (2015)	</item>
+        <item>	Spy (2015)	</item>
+        <item>	Me and Earl and the Dying Girl (2015)	</item>
+        <item>	Dope (2015)	</item>
+        <item>	Tangerine (2015)	</item>
+        <item>	Demolition (2015)	</item>
+        <item>	Anomalisa (2015)	</item>
+        <item>	Danny Collins (2015)	</item>
+        <item>	People Places Things (2015)	</item>
+        <item>	Flytrap (2015)	</item>
+        <item>	The Grand Budapest Hotel (2014)	</item>
+        <item>	Kingsman - The Secret Service (2014)	</item>
+        <item>	What We Do in the Shadows (2014)	</item>
+        <item>	Chef (2014)	</item>
+        <item>	22 Jump Street (2014)	</item>
+        <item>	St. Vincent (2014)	</item>
+        <item>	The Hundred-Foot Journey (2014)	</item>
+        <item>	5 to 7 (2014)	</item>
+        <item>	Hector and the Search for Happiness (2014)	</item>
+        <item>	The Road Within (2014)	</item>
+        <item>	Rudderless (2014)	</item>
+        <item>	Infinitely Polar Bear (2014)	</item>
+        <item>	Closer to the Moon (2014)	</item>
+        <item>	Reality (2014)	</item>
+        <item>	Camp Takota (2014)	</item>
+        <item>	The Wolf of Wall Street (2013)	</item>
+        <item>	Were the Millers (2013)	</item>
+        <item>	The Worlds End (2013)	</item>
+        <item>	The Spectacular Now (2013)	</item>
+        <item>	Begin Again (2013)	</item>
+        <item>	The Secret Life of Walter Mitty (2013)	</item>
+        <item>	Saving Mr. Banks (2013)	</item>
+        <item>	The Way Way Back (2013)	</item>
+        <item>	Filth (2013)	</item>
+        <item>	Silver Linings Playbook (2012)	</item>
+        <item>	21 Jump Street (2012)	</item>
+        <item>	People Like Us (2012)	</item>
+        <item>	Ted (2012)	</item>
+        <item>	Frances Ha (2012)	</item>
+        <item>	Stuck in Love (2012)	</item>
+        <item>	Safety Not Guaranteed (2012)	</item>
+        <item>	Ruby Sparks (2012)	</item>
+        <item>	The Sessions (2012)	</item>
+        <item>	Robot and Frank (2012)	</item>
+        <item>	The Magic of Belle Isle (2012)	</item>
+        <item>	Its Such a Beautiful Day (2012)	</item>
+        <item>	The Story of Luke (2012)	</item>
+        <item>	The History of Future Folk (2012)	</item>
+        <item>	Crazy, Stupid, Love. (2011)	</item>
+        <item>	Midnight in Paris (2011)	</item>
+        <item>	Paul (2011)	</item>
+        <item>	Horrible Bosses (2011)	</item>
+        <item>	50/50 (2011)	</item>
+        <item>	The Descendants (2011)	</item>
+        <item>	We Bought a Zoo (2011)	</item>
+        <item>	The Artist (2011)	</item>
+        <item>	The Best Exotic Marigold Hotel (2011)	</item>
+        <item>	Carnage (2011)	</item>
+        <item>	Red Dog (2011)	</item>
+        <item>	Win Win (2011)	</item>
+        <item>	Take Me Home (2011)	</item>
+        <item>	Thats What I Am (2011)	</item>
+        <item>	Cloudburst (2011)	</item>
+        <item>	RED (2010)	</item>
+        <item>	Kick-Ass (2010)	</item>
+        <item>	Easy A (2010)	</item>
+        <item>	The Way (2010)	</item>
+        <item>	Tucker and Dale vs Evil (2010)	</item>
+        <item>	Flipped (2010)	</item>
+        <item>	Submarine (2010)	</item>
+        <item>	Its Kind of a Funny Story (2010)	</item>
+        <item>	Beginners (2010)	</item>
+        <item>	The Kids Are All Right (2010)	</item>
+        <item>	Hesher (2010)	</item>
+        <item>	The Hangover (2009)	</item>
+        <item>	Zombieland (2009)	</item>
+        <item>	500 Days of Summer (2009)	</item>
+        <item>	A Serious Man (2009)	</item>
+        <item>	Away We Go (2009)	</item>
+        <item>	Black Dynamite (2009)	</item>
+        <item>	Whatever Works (2009)	</item>
+        <item>	Worlds Greatest Dad (2009)	</item>
+        <item>	City Island (2009)	</item>
+        <item>	The Vicious Kind (2009)	</item>
+        <item>	The Perfect Game (2009)	</item>
+        <item>	The Good Heart (2009)	</item>
+        <item>	Road, Movie (2009)	</item>
+        <item>	Tropic Thunder (2008)	</item>
+        <item>	In Bruges (2008)	</item>
+        <item>	Step Brothers (2008)	</item>
+        <item>	Definitely, Maybe (2008)	</item>
+        <item>	Pineapple Express (2008)	</item>
+        <item>	Burn After Reading (2008)	</item>
+        <item>	Role Models (2008)	</item>
+        <item>	Sunshine Cleaning (2008)	</item>
+        <item>	The Wackness (2008)	</item>
+        <item>	The Lucky Ones (2008)	</item>
+        <item>	Superbad (2007)	</item>
+        <item>	Knocked Up (2007)	</item>
+        <item>	Meet the Robinsons (2007)	</item>
+        <item>	The Bucket List (2007)	</item>
+        <item>	Death at a Funeral (2007)	</item>
+        <item>	Charlie Bartlett (2007)	</item>
+        <item>	The Hunting Party (2007)	</item>
+        <item>	The Hammer (2007)	</item>
+        <item>	Man in the Chair (2007)	</item>
+        <item>	The Devil Wears Prada (2006)	</item>
+        <item>	Little Miss Sunshine (2006)	</item>
+        <item>	The Holiday (2006)	</item>
+        <item>	A Good Year (2006)	</item>
+        <item>	Grandmas Boy (2006)	</item>
+        <item>	Find Me Guilty (2006)	</item>
+        <item>	Special (2006)	</item>
+        <item>	Wedding Crashers (2005)	</item>
+    </string-array>
+
+    <string-array name="comedy_2018">
+        <item>	Isle of Dogs (2018)	</item>
+        <item>	Love, Simon (2018)	</item>
+        <item>	Game Night (2018)	</item>
+    </string-array>
+
+    <string-array name="comedy_2017">
+        <item>	Jumanji - Welcome to the Jungle (2017)	</item>
+        <item>	I, Tonya (2017)	</item>
+        <item>	Lady Bird (2017)	</item>
+        <item>	The Death of Stalin (2017)	</item>
+        <item>	The Disaster Artist (2017)	</item>
+        <item>	Logan Lucky (2017)	</item>
+        <item>	The Hitmans Bodyguard (2017)	</item>
+        <item>	American Made (2017)	</item>
+        <item>	The Big Sick (2017)	</item>
+        <item>	Lucky (2017)	</item>
+        <item>	Last Flag Flying (2017)	</item>
+        <item>	A Dogs Purpose (2017)	</item>
+        <item>	I Dont Feel at Home in This World Anymore. (2017)	</item>
+        <item>	Brigsby Bear (2017)	</item>
+    </string-array>
+
+    <string-array name="comedy_2016">
+        <item>	Deadpool (2016)	</item>
+        <item>	La La Land (2016)	</item>
+        <item>	The Edge of Seventeen (2016)	</item>
+        <item>	Captain Fantastic (2016)	</item>
+        <item>	The Nice Guys (2016)	</item>
+        <item>	War Dogs (2016)	</item>
+        <item>	Swiss Army Man (2016)	</item>
+        <item>	Paterson (2016)	</item>
+        <item>	Sing Street (2016)	</item>
+        <item>	Eddie the Eagle (2016)	</item>
+        <item>	20th Century Women (2016)	</item>
+        <item>	The Fundamentals of Caring (2016)	</item>
+        <item>	Mr. Church (2016)	</item>
+        <item>	This Beautiful Fantastic (2016)	</item>
+        <item>	The Rack Pack (2016)	</item>
+    </string-array>
+
+    <string-array name="comedy_2015">
+        <item>	The Man from U.N.C.L.E. (2015)	</item>
+        <item>	Ant-Man (2015)	</item>
+        <item>	The Big Short (2015)	</item>
+        <item>	The Intern (2015)	</item>
+        <item>	The Lobster (2015)	</item>
+        <item>	Spy (2015)	</item>
+        <item>	Me and Earl and the Dying Girl (2015)	</item>
+        <item>	Dope (2015)	</item>
+        <item>	Tangerine (2015)	</item>
+        <item>	Demolition (2015)	</item>
+        <item>	Anomalisa (2015)	</item>
+        <item>	Danny Collins (2015)	</item>
+        <item>	People Places Things (2015)	</item>
+        <item>	Flytrap (2015)	</item>
+    </string-array>
+
+    <string-array name="comedy_2014">
+        <item>	The Grand Budapest Hotel (2014)	</item>
+        <item>	Kingsman - The Secret Service (2014)	</item>
+        <item>	What We Do in the Shadows (2014)	</item>
+        <item>	Chef (2014)	</item>
+        <item>	22 Jump Street (2014)	</item>
+        <item>	St. Vincent (2014)	</item>
+        <item>	The Hundred-Foot Journey (2014)	</item>
+        <item>	5 to 7 (2014)	</item>
+        <item>	Hector and the Search for Happiness (2014)	</item>
+        <item>	The Road Within (2014)	</item>
+        <item>	Rudderless (2014)	</item>
+        <item>	Infinitely Polar Bear (2014)	</item>
+        <item>	Closer to the Moon (2014)	</item>
+        <item>	Reality (2014)	</item>
+        <item>	Camp Takota (2014)	</item>
+    </string-array>
+
+    <string-array name="comedy_2013">
+        <item>	The Wolf of Wall Street (2013)	</item>
+        <item>	Were the Millers (2013)	</item>
+        <item>	The Worlds End (2013)	</item>
+        <item>	The Spectacular Now (2013)	</item>
+        <item>	Begin Again (2013)	</item>
+        <item>	The Secret Life of Walter Mitty (2013)	</item>
+        <item>	Saving Mr. Banks (2013)	</item>
+        <item>	The Way Way Back (2013)	</item>
+        <item>	Filth (2013)	</item>
+    </string-array>
+
+    <string-array name="comedy_2012">
+        <item>	Silver Linings Playbook (2012)	</item>
+        <item>	21 Jump Street (2012)	</item>
+        <item>	People Like Us (2012)	</item>
+        <item>	Ted (2012)	</item>
+        <item>	Frances Ha (2012)	</item>
+        <item>	Stuck in Love (2012)	</item>
+        <item>	Safety Not Guaranteed (2012)	</item>
+        <item>	Ruby Sparks (2012)	</item>
+        <item>	The Sessions (2012)	</item>
+        <item>	Robot and Frank (2012)	</item>
+        <item>	The Magic of Belle Isle (2012)	</item>
+        <item>	Its Such a Beautiful Day (2012)	</item>
+        <item>	The Story of Luke (2012)	</item>
+        <item>	The History of Future Folk (2012)	</item>
+    </string-array>
+
+    <string-array name="comedy_2011">
+        <item>	Crazy, Stupid, Love. (2011)	</item>
+        <item>	Midnight in Paris (2011)	</item>
+        <item>	Paul (2011)	</item>
+        <item>	Horrible Bosses (2011)	</item>
+        <item>	50/50 (2011)	</item>
+        <item>	The Descendants (2011)	</item>
+        <item>	We Bought a Zoo (2011)	</item>
+        <item>	The Artist (2011)	</item>
+        <item>	The Best Exotic Marigold Hotel (2011)	</item>
+        <item>	Carnage (2011)	</item>
+        <item>	Red Dog (2011)	</item>
+        <item>	Win Win (2011)	</item>
+        <item>	Take Me Home (2011)	</item>
+        <item>	Thats What I Am (2011)	</item>
+        <item>	Cloudburst (2011)	</item>
+    </string-array>
+
+    <string-array name="comedy_2010">
+        <item>	RED (2010)	</item>
+        <item>	Kick-Ass (2010)	</item>
+        <item>	Easy A (2010)	</item>
+        <item>	The Way (2010)	</item>
+        <item>	Tucker and Dale vs Evil (2010)	</item>
+        <item>	Flipped (2010)	</item>
+        <item>	Submarine (2010)	</item>
+        <item>	Its Kind of a Funny Story (2010)	</item>
+        <item>	Beginners (2010)	</item>
+        <item>	The Kids Are All Right (2010)	</item>
+        <item>	Hesher (2010)	</item>
+    </string-array>
+
+    <string-array name="comedy_2009">
+        <item>	The Hangover (2009)	</item>
+        <item>	Zombieland (2009)	</item>
+        <item>	500 Days of Summer (2009)	</item>
+        <item>	A Serious Man (2009)	</item>
+        <item>	Away We Go (2009)	</item>
+        <item>	Black Dynamite (2009)	</item>
+        <item>	Whatever Works (2009)	</item>
+        <item>	Worlds Greatest Dad (2009)	</item>
+        <item>	City Island (2009)	</item>
+        <item>	The Vicious Kind (2009)	</item>
+        <item>	The Perfect Game (2009)	</item>
+        <item>	The Good Heart (2009)	</item>
+        <item>	Road, Movie (2009)	</item>
+    </string-array>
+
+    <string-array name="comedy_2008">
+        <item>	Tropic Thunder (2008)	</item>
+        <item>	In Bruges (2008)	</item>
+        <item>	Step Brothers (2008)	</item>
+        <item>	Definitely, Maybe (2008)	</item>
+        <item>	Pineapple Express (2008)	</item>
+        <item>	Burn After Reading (2008)	</item>
+        <item>	Role Models (2008)	</item>
+        <item>	Sunshine Cleaning (2008)	</item>
+        <item>	The Wackness (2008)	</item>
+        <item>	The Lucky Ones (2008)	</item>
+    </string-array>
+
+    <string-array name="comedy_2007">
+        <item>	Superbad (2007)	</item>
+        <item>	Knocked Up (2007)	</item>
+        <item>	Meet the Robinsons (2007)	</item>
+        <item>	The Bucket List (2007)	</item>
+        <item>	Death at a Funeral (2007)	</item>
+        <item>	Charlie Bartlett (2007)	</item>
+        <item>	The Hunting Party (2007)	</item>
+        <item>	The Hammer (2007)	</item>
+        <item>	Man in the Chair (2007)	</item>
+    </string-array>
+
+    <string-array name="comedy_2006">
+        <item>	The Devil Wears Prada (2006)	</item>
+        <item>	Little Miss Sunshine (2006)	</item>
+        <item>	The Holiday (2006)	</item>
+        <item>	A Good Year (2006)	</item>
+        <item>	Grandmas Boy (2006)	</item>
+        <item>	Find Me Guilty (2006)	</item>
+        <item>	Special (2006)	</item>
+    </string-array>
+
+    <string-array name="comedy_2005">
+        <item>	Wedding Crashers (2005)	</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mysteryThriller_All">
+        <item>	Annihilation (2018)	</item>
+        <item>	Red Sparrow (2018)	</item>
+        <item>	Game Night (2018)	</item>
+        <item>	Den of Thieves (2018)	</item>
+        <item>	All the Money in the World (2017)	</item>
+        <item>	Murder on the Orient Express (2017)	</item>
+        <item>	Blade Runner 2049 (2017)	</item>
+        <item>	Get Out (2017)	</item>
+        <item>	Wind River (2017)	</item>
+        <item>	You Were Never Really Here (2017)	</item>
+        <item>	The Killing of a Sacred Deer (2017)	</item>
+        <item>	Mother! (2017)	</item>
+        <item>	The Foreigner (2017)	</item>
+        <item>	Annabelle - Creation (2017)	</item>
+        <item>	Small Town Crime (2017)	</item>
+        <item>	The Vanishing of Sidney Hall (2017)	</item>
+        <item>	The Girl on the Train (2016)	</item>
+        <item>	Arrival (2016)	</item>
+        <item>	10 Cloverfield Lane (2016)	</item>
+        <item>	The Conjuring 2 (2016)	</item>
+        <item>	Now You See Me 2 (2016)	</item>
+        <item>	The Autopsy of Jane Doe (2016)	</item>
+        <item>	Midnight Special (2016)	</item>
+        <item>	The Wailing (2016)	</item>
+        <item>	As You Are (2016)	</item>
+        <item>	Autumn Lights (2016)	</item>
+        <item>	Sicario (2015)	</item>
+        <item>	The Hateful Eight (2015)	</item>
+        <item>	The Gift (2015)	</item>
+        <item>	The Witch (2015)	</item>
+        <item>	Crimson Peak (2015)	</item>
+        <item>	Tomorrowland (2015)	</item>
+        <item>	The Invitation (2015)	</item>
+        <item>	Self/less (2015)	</item>
+        <item>	Mr. Holmes (2015)	</item>
+        <item>	Too Late (2015)	</item>
+        <item>	Gone Girl (2014)	</item>
+        <item>	The Maze Runner (2014)	</item>
+        <item>	Divergent (2014)	</item>
+        <item>	It Follows (2014)	</item>
+        <item>	A Walk Among the Tombstones (2014)	</item>
+        <item>	Non-Stop (2014)	</item>
+        <item>	The Guest (2014)	</item>
+        <item>	Veronica Mars (2014)	</item>
+        <item>	Stonehearst Asylum (2014)	</item>
+        <item>	Twin Peaks - The Missing Pieces (2014)	</item>
+        <item>	Man from Reno (2014)	</item>
+        <item>	Prisoners (2013)	</item>
+        <item>	Oblivion (2013)	</item>
+        <item>	The Conjuring (2013)	</item>
+        <item>	Now You See Me (2013)	</item>
+        <item>	Escape Plan (2013)	</item>
+        <item>	Side Effects (2013)	</item>
+        <item>	Coherence (2013)	</item>
+        <item>	Anna (2013)	</item>
+        <item>	Josh (2013)	</item>
+        <item>	Cloud Atlas (2012)	</item>
+        <item>	Prometheus (2012)	</item>
+        <item>	Sinister (2012)	</item>
+        <item>	The Words (2012)	</item>
+        <item>	Sherlock Holmes - A Game of Shadows (2011)	</item>
+        <item>	The Girl with the Dragon Tattoo (2011)	</item>
+        <item>	Limitless (2011)	</item>
+        <item>	Source Code (2011)	</item>
+        <item>	Super 8 (2011)	</item>
+        <item>	Unknown (2011)	</item>
+        <item>	Extremely Loud and Incredibly Close (2011)	</item>
+        <item>	Sound of My Voice (2011)	</item>
+        <item>	Enter Nowhere (2011)	</item>
+        <item>	Shuffle (2011)	</item>
+        <item>	Shutter Island (2010)	</item>
+        <item>	Buried (2010)	</item>
+        <item>	Edge of Darkness (2010)	</item>
+        <item>	Sherlock Holmes (2009)	</item>
+        <item>	Orphan (2009)	</item>
+        <item>	Angels and Demons (2009)	</item>
+        <item>	Pandorum (2009)	</item>
+        <item>	A Perfect Getaway (2009)	</item>
+        <item>	State of Play (2009)	</item>
+        <item>	The International (2009)	</item>
+        <item>	Get Low (2009)	</item>
+        <item>	Ondine (2009)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	Eagle Eye (2008)	</item>
+        <item>	Vantage Point (2008)	</item>
+        <item>	Nothing But the Truth (2008)	</item>
+        <item>	Zodiac (2007)	</item>
+        <item>	Shooter (2007)	</item>
+        <item>	Gone Baby Gone (2007)	</item>
+        <item>	The Bourne Ultimatum (2007)	</item>
+        <item>	Michael Clayton (2007)	</item>
+        <item>	National Treasure - Book of Secrets (2007)	</item>
+        <item>	Awake (2007)	</item>
+        <item>	In the Valley of Elah (2007)	</item>
+        <item>	Disturbia (2007)	</item>
+        <item>	Shattered (2007)	</item>
+        <item>	Sleuth (2007)	</item>
+        <item>	The Prestige (2006)	</item>
+        <item>	The Illusionist (2006)	</item>
+        <item>	Inside Man (2006)	</item>
+        <item>	The Da Vinci Code (2006)	</item>
+        <item>	Lucky Number Slevin (2006)	</item>
+        <item>	Unknown (2006)	</item>
+        <item>	The Dead Girl (2006)	</item>
+        <item>	Hostage (2005)	</item>
+        <item>	Four Brothers (2005)	</item>
+        <item>	Red Eye (2005)	</item>
+        <item>	National Treasure (2004)	</item>
+        <item>	I, Robot (2004)	</item>
+        <item>	Mystic River (2003)	</item>
+        <item>	Minority Report (2002)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2018">
+        <item>	Annihilation (2018)	</item>
+        <item>	Red Sparrow (2018)	</item>
+        <item>	Game Night (2018)	</item>
+        <item>	Den of Thieves (2018)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2017">
+        <item>	All the Money in the World (2017)	</item>
+        <item>	Murder on the Orient Express (2017)	</item>
+        <item>	Blade Runner 2049 (2017)	</item>
+        <item>	Get Out (2017)	</item>
+        <item>	Wind River (2017)	</item>
+        <item>	You Were Never Really Here (2017)	</item>
+        <item>	The Killing of a Sacred Deer (2017)	</item>
+        <item>	Mother! (2017)	</item>
+        <item>	The Foreigner (2017)	</item>
+        <item>	Annabelle - Creation (2017)	</item>
+        <item>	Small Town Crime (2017)	</item>
+        <item>	The Vanishing of Sidney Hall (2017)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2016">
+        <item>	The Girl on the Train (2016)	</item>
+        <item>	Arrival (2016)	</item>
+        <item>	10 Cloverfield Lane (2016)	</item>
+        <item>	The Conjuring 2 (2016)	</item>
+        <item>	Now You See Me 2 (2016)	</item>
+        <item>	The Autopsy of Jane Doe (2016)	</item>
+        <item>	Midnight Special (2016)	</item>
+        <item>	The Wailing (2016)	</item>
+        <item>	As You Are (2016)	</item>
+        <item>	Autumn Lights (2016)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2015">
+        <item>	Sicario (2015)	</item>
+        <item>	The Hateful Eight (2015)	</item>
+        <item>	The Gift (2015)	</item>
+        <item>	The Witch (2015)	</item>
+        <item>	Crimson Peak (2015)	</item>
+        <item>	Tomorrowland (2015)	</item>
+        <item>	The Invitation (2015)	</item>
+        <item>	Self/less (2015)	</item>
+        <item>	Mr. Holmes (2015)	</item>
+        <item>	Too Late (2015)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2014">
+        <item>	Gone Girl (2014)	</item>
+        <item>	The Maze Runner (2014)	</item>
+        <item>	Divergent (2014)	</item>
+        <item>	It Follows (2014)	</item>
+        <item>	A Walk Among the Tombstones (2014)	</item>
+        <item>	Non-Stop (2014)	</item>
+        <item>	The Guest (2014)	</item>
+        <item>	Veronica Mars (2014)	</item>
+        <item>	Stonehearst Asylum (2014)	</item>
+        <item>	Twin Peaks - The Missing Pieces (2014)	</item>
+        <item>	Man from Reno (2014)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2013">
+        <item>	Prisoners (2013)	</item>
+        <item>	Oblivion (2013)	</item>
+        <item>	The Conjuring (2013)	</item>
+        <item>	Now You See Me (2013)	</item>
+        <item>	Escape Plan (2013)	</item>
+        <item>	Side Effects (2013)	</item>
+        <item>	Coherence (2013)	</item>
+        <item>	Anna (2013)	</item>
+        <item>	Josh (2013)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2012">
+        <item>	Cloud Atlas (2012)	</item>
+        <item>	Prometheus (2012)	</item>
+        <item>	Sinister (2012)	</item>
+        <item>	The Words (2012)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2011">
+        <item>	Sherlock Holmes - A Game of Shadows (2011)	</item>
+        <item>	The Girl with the Dragon Tattoo (2011)	</item>
+        <item>	Limitless (2011)	</item>
+        <item>	Source Code (2011)	</item>
+        <item>	Super 8 (2011)	</item>
+        <item>	Unknown (2011)	</item>
+        <item>	Extremely Loud and Incredibly Close (2011)	</item>
+        <item>	Sound of My Voice (2011)	</item>
+        <item>	Enter Nowhere (2011)	</item>
+        <item>	Shuffle (2011)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2010">
+        <item>	Shutter Island (2010)	</item>
+        <item>	Buried (2010)	</item>
+        <item>	Edge of Darkness (2010)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2009">
+        <item>	Sherlock Holmes (2009)	</item>
+        <item>	Orphan (2009)	</item>
+        <item>	Angels and Demons (2009)	</item>
+        <item>	Pandorum (2009)	</item>
+        <item>	A Perfect Getaway (2009)	</item>
+        <item>	State of Play (2009)	</item>
+        <item>	The International (2009)	</item>
+        <item>	Get Low (2009)	</item>
+        <item>	Ondine (2009)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2008">
+        <item>	Changeling (2008)	</item>
+        <item>	Eagle Eye (2008)	</item>
+        <item>	Vantage Point (2008)	</item>
+        <item>	Nothing But the Truth (2008)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2007">
+        <item>	Zodiac (2007)	</item>
+        <item>	Shooter (2007)	</item>
+        <item>	Gone Baby Gone (2007)	</item>
+        <item>	The Bourne Ultimatum (2007)	</item>
+        <item>	Michael Clayton (2007)	</item>
+        <item>	National Treasure - Book of Secrets (2007)	</item>
+        <item>	Awake (2007)	</item>
+        <item>	In the Valley of Elah (2007)	</item>
+        <item>	Disturbia (2007)	</item>
+        <item>	Shattered (2007)	</item>
+        <item>	Sleuth (2007)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2006">
+        <item>	The Prestige (2006)	</item>
+        <item>	The Illusionist (2006)	</item>
+        <item>	Inside Man (2006)	</item>
+        <item>	The Da Vinci Code (2006)	</item>
+        <item>	Lucky Number Slevin (2006)	</item>
+        <item>	Unknown (2006)	</item>
+        <item>	The Dead Girl (2006)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2005">
+        <item>	Hostage (2005)	</item>
+        <item>	Four Brothers (2005)	</item>
+        <item>	Red Eye (2005)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2004">
+        <item>	National Treasure (2004)	</item>
+        <item>	I, Robot (2004)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2003">
+        <item>	Mystic River (2003)	</item>
+    </string-array>
+
+    <string-array name="mysteryThriller_2002">
+        <item>	Minority Report (2002)	</item>
+    </string-array>
+
+</resources>

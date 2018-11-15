@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primetime</string>
+    <string-array name="years">
+        <item>All</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+    </string-array>
+
+    <string name="DisabledMovies_toast">Halten Sie für die Filme gedrückt, die Sie wieder aufnehmen möchten!</string>
+
+    <string name="GenreActivity_action">Action</string>
+    <string name="GenreActivity_action_comedy">Action-Comedy</string>
+    <string name="GenreActivity_adventure">Abenteuer</string>
+    <string name="GenreActivity_animation">Animation</string>
+    <string name="GenreActivity_biographical">Biographie</string>
+    <string name="GenreActivity_comedy">Comedy</string>
+    <string name="GenreActivity_crime">Crime</string>
+    <string name="GenreActivity_drama">Drama</string>
+    <string name="GenreActivity_family">Familie</string>
+    <string name="GenreActivity_fantasy">Fantasy</string>
+    <string name="GenreActivity_history">Geschichte</string>
+    <string name="GenreActivity_horror">Horror</string>
+    <string name="GenreActivity_mystery_thriller">Thriller</string>
+    <string name="GenreActivity_romance_comedy">Romantik</string>
+
+    <string-array name="yearSelecting_genreName">
+        <item>Genre - Action</item>
+        <item>Genre - Abenteuer</item>
+        <item>Genre - Biographisch</item>
+        <item>Genre - Kinder</item>
+        <item>Genre - Fantasy</item>
+        <item>Genre - Horror</item>
+        <item>Genre - Superhelden</item>
+        <item>Genre - Thriller</item>
+    </string-array>
+    <string name="YearSelecting_chooseYear">Wählen Sie das Jahr</string>
+    <string name="YearSelecting_search">Suche Film</string>
+
+    <string name="MainActivity_toast">Es sind keine weiteren Filme im Jahr </string>
+    <string name="MainActivity_toast_">Wählen Sie ein anderes Jahr oder eine andere Genre</string>
+    <string name="MainActivity_prime">Primetime</string>
+    <string name="MainActivity_with">mit</string>
+    <string name="MainActivity_checkBox">Angeschaut</string>
+    <string name="MainActivity_checkBoxFav">Merken</string>
+    <string name="MainActivity_buttonTrailer">Trailer</string>
+    <string name="MainActivity_buttonRefresh">Erneuern</string>
+    <string name="MainActivity_trailer">trailer Deutsch</string>
+
+    <string name="EnteringActivity_buttonChooseGenre">Wählen einer\nGenre</string>
+    <string name="EnteringActivity_buttonRandom">Filmsuche aus\nallen Genren</string>
+    <string name="EnteringActivity_buttonDisabledMovies">Deaktivierte</string>
+    <string name="EnteringActivity_buttonFavouriteMovies">Merkliste</string>
+
+    <string name="PopUp_title">Developed By: Redhill</string>
+    <string name="PopUp_text1">Alle Filme, die in dieser App empfohlen werden, wurden nach gründlichen Filterungen ausgewählt.\n\nFür die beste Nutzung dieser App, ist die YouTube App ebenfalls zu empfehlen.</string>
+    <string name="PopUp_text2">für weitere informationen: \nkiziltepe.f.m@gmail.com</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primetime</string>
+    <string-array name="years">
+        <item>All</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+    </string-array>
+
+    <string name="DisabledMovies_toast">Geri İstediğiniz Filmler İçin Basılı Tutun!</string>
+
+    <string name="GenreActivity_action">Aksiyon</string>
+    <string name="GenreActivity_action_comedy">Aksiyon-Komedi</string>
+    <string name="GenreActivity_adventure">Macera</string>
+    <string name="GenreActivity_animation">Animasyon</string>
+    <string name="GenreActivity_biographical">Biyografi</string>
+    <string name="GenreActivity_comedy">Komedi</string>
+    <string name="GenreActivity_crime">Suç</string>
+    <string name="GenreActivity_drama">Dram</string>
+    <string name="GenreActivity_family">Aile</string>
+    <string name="GenreActivity_fantasy">Fantastik</string>
+    <string name="GenreActivity_history">Tarih</string>
+    <string name="GenreActivity_horror">Korku</string>
+    <string name="GenreActivity_mystery_thriller">Gerilim</string>
+    <string name="GenreActivity_romance_comedy">Romantik</string>
+
+    <string-array name="yearSelecting_genreName">
+        <item>Genre - Aksiyon</item>
+        <item>Genre - Macera</item>
+        <item>Genre - Biyografik</item>
+        <item>Genre - Çocuk</item>
+        <item>Genre - Fantastik</item>
+        <item>Genre - Korku</item>
+        <item>Genre - Süper-Kahraman</item>
+        <item>Genre - Gerilim</item>
+    </string-array>
+    <string name="YearSelecting_chooseYear">Sene Seçin</string>
+    <string name="YearSelecting_search">Film Ara</string>
+
+    <string name="MainActivity_toast">Seçtiğiniz senede: </string>
+    <string name="MainActivity_toast_">Film kalmamış, lütfen farklı bir Sene veya farklı bir Kategori seçin</string>
+    <string name="MainActivity_prime">Primetime</string>
+    <string name="MainActivity_with">önerimiz</string>
+    <string name="MainActivity_checkBox">İzledim</string>
+    <string name="MainActivity_checkBoxFav">İzleyeceğim</string>
+    <string name="MainActivity_buttonTrailer">Fragman</string>
+    <string name="MainActivity_buttonRefresh">Yenile</string>
+    <string name="MainActivity_trailer">fragman / trailer</string>
+
+    <string name="EnteringActivity_buttonChooseGenre">Film türü\nseçimi</string>
+    <string name="EnteringActivity_buttonRandom">Gelişigüzel\nArama</string>
+    <string name="EnteringActivity_buttonDisabledMovies">İzlediklerim</string>
+    <string name="EnteringActivity_buttonFavouriteMovies">İzleyeceklerim</string>
+
+    <string name="PopUp_title">Developed By: Redhill</string>
+    <string name="PopUp_text1">Bu uygulamada önerilen tüm filmler, kapsamlı filtreleme sonucu seçilmiştir.\n\nBu uygulamanın iyi bir kullanım sağlaması için, YouTube uygulamasınıda ayrıca önermekteyiz.</string>
+    <string name="PopUp_text2">daha fazla bilgi için: \nkiziltepe.f.m@gmail.com</string>
+</resources>

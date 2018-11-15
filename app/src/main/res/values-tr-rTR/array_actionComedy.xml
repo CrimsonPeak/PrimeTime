@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="actionComedy_All">
+        <item>Gringo (2018)</item>
+        <item>Jumanji - Welcome to the Jungle (2017)</item>
+        <item>Thor - Ragnarok (2017)</item>
+        <item>Kingsman - The Golden Circle (2017)</item>
+        <item>The Hitmans Bodyguard (2017)</item>
+        <item>American Made (2017)</item>
+        <item>All About the Money (2017)</item>
+        <item>Bad Kids of Crestview Academy (2017)</item>
+        <item>Deadpool (2016)</item>
+        <item>Central Intelligence (2016)</item>
+        <item>The Nice Guys (2016)</item>
+        <item>Now You See Me 2 (2016)</item>
+        <item>Teenage Mutant Ninja Turtles - Out of the Shadows (2016)</item>
+        <item>The Brothers Grimsby (2016)</item>
+        <item>Colossal (2016)</item>
+        <item>Keanu (2016)</item>
+        <item>The Man from U.N.C.L.E. (2015)</item>
+        <item>Ant-Man (2015)</item>
+        <item>American Ultra (2015)</item>
+        <item>Spy (2015)</item>
+        <item>Scouts Guide to the Zombie Apocalypse (2015)</item>
+        <item>Dope (2015)</item>
+        <item>Mr. Right (2015)</item>
+        <item>Miles Ahead (2015)</item>
+        <item>Kingsman - The Secret Service (2014)</item>
+        <item>Horrible Bosses 2 (2014)</item>
+        <item>22 Jump Street (2014)</item>
+        <item>The Voices (2014)</item>
+        <item>Ride Along (2014)</item>
+        <item>Död snö 2 (2014)</item>
+        <item>A Grim Becoming (2014)</item>
+        <item>Kick-Ass 2 (2013)</item>
+        <item>The Last Stand (2013)</item>
+        <item>RED 2 (2013)</item>
+        <item>The Worlds End (2013)</item>
+        <item>Pain and Gain (2013)</item>
+        <item>The Heat (2013)</item>
+        <item>2 Guns (2013)</item>
+        <item>21 Jump Street (2012)</item>
+        <item>Men in Black 3 (2012)</item>
+        <item>Project X (2012)</item>
+        <item>This Means War (2012)</item>
+        <item>Here Comes the Boom (2012)</item>
+        <item>The Baytown Outlaws (2012)</item>
+        <item>Hit and Run (2012)</item>
+        <item>Stand Up Guys (2012)</item>
+        <item>Johnny English Reborn (2011)</item>
+        <item>Fright Night (2011)</item>
+        <item>Tower Heist (2011)</item>
+        <item>Blitz (2011)</item>
+        <item>30 Minutes or Less (2011)</item>
+        <item>Fathers Day (2011)</item>
+        <item>Scott Pilgrim vs. the World (2010)</item>
+        <item>RED (2010)</item>
+        <item>Kick-Ass (2010)</item>
+        <item>The A-Team (2010)</item>
+        <item>The Other Guys (2010)</item>
+        <item>Megamind (2010)</item>
+        <item>Due Date (2010)</item>
+        <item>Knight and Day (2010)</item>
+        <item>Black Dynamite (2009)</item>
+        <item>Killer Bean Forever (2009)</item>
+        <item>Tropic Thunder (2008)</item>
+        <item>Pineapple Express (2008)</item>
+        <item>Get Smart (2008)</item>
+        <item>Planet Terror (2007)</item>
+        <item>Rush Hour 3 (2007)</item>
+        <item>TMNT (2007)</item>
+        <item>Big Stan (2007)</item>
+        <item>Son of Rambow (2007)</item>
+        <item>Fay Grim (2006)</item>
+        <item>Mr. and Mrs. Smith (2005)</item>
+        <item>Zathura - A Space Adventure (2005)</item>
+        <item>Sahara (2005)</item>
+        <item>Feast (2005)</item>
+        <item>After the Sunset (2004)</item>
+        <item>Bad Boys II (2003)</item>
+        <item>The Rundown (2003)</item>
+        <item>Johnny English (2003)</item>
+        <item>Shanghai Knights (2003)</item>
+        <item>Men in Black II (2002)</item>
+        <item>Stark Raving Mad (2002)</item>
+        <item>Rush Hour 2 (2001)</item>
+        <item>Osmosis Jones (2001)</item>
+        <item>Miss Congeniality (2000)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2018">
+        <item>Gringo (2018)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2017">
+        <item>Jumanji - Welcome to the Jungle (2017)</item>
+        <item>Thor - Ragnarok (2017)</item>
+        <item>Kingsman - The Golden Circle (2017)</item>
+        <item>The Hitmans Bodyguard (2017)</item>
+        <item>American Made (2017)</item>
+        <item>All About the Money (2017)</item>
+        <item>Bad Kids of Crestview Academy (2017)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2016">
+        <item>Deadpool (2016)</item>
+        <item>Central Intelligence (2016)</item>
+        <item>The Nice Guys (2016)</item>
+        <item>Now You See Me 2 (2016)</item>
+        <item>Teenage Mutant Ninja Turtles - Out of the Shadows (2016)</item>
+        <item>The Brothers Grimsby (2016)</item>
+        <item>Colossal (2016)</item>
+        <item>Keanu (2016)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2015">
+        <item>The Man from U.N.C.L.E. (2015)</item>
+        <item>Ant-Man (2015)</item>
+        <item>American Ultra (2015)</item>
+        <item>Spy (2015)</item>
+        <item>Scouts Guide to the Zombie Apocalypse (2015)</item>
+        <item>Dope (2015)</item>
+        <item>Mr. Right (2015)</item>
+        <item>Miles Ahead (2015)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2014">
+        <item>Kingsman - The Secret Service (2014)</item>
+        <item>Horrible Bosses 2 (2014)</item>
+        <item>22 Jump Street (2014)</item>
+        <item>The Voices (2014)</item>
+        <item>Ride Along (2014)</item>
+        <item>Död snö 2 (2014)</item>
+        <item>A Grim Becoming (2014)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2013">
+        <item>Kick-Ass 2 (2013)</item>
+        <item>The Last Stand (2013)</item>
+        <item>RED 2 (2013)</item>
+        <item>The Worlds End (2013)</item>
+        <item>Pain and Gain (2013)</item>
+        <item>The Heat (2013)</item>
+        <item>2 Guns (2013)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2012">
+        <item>21 Jump Street (2012)</item>
+        <item>Men in Black 3 (2012)</item>
+        <item>Project X (2012)</item>
+        <item>This Means War (2012)</item>
+        <item>Here Comes the Boom (2012)</item>
+        <item>The Baytown Outlaws (2012)</item>
+        <item>Hit and Run (2012)</item>
+        <item>Stand Up Guys (2012)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2011">
+        <item>Johnny English Reborn (2011)</item>
+        <item>Fright Night (2011)</item>
+        <item>Tower Heist (2011)</item>
+        <item>Blitz (2011)</item>
+        <item>30 Minutes or Less (2011)</item>
+        <item>Fathers Day (2011)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2010">
+        <item>Scott Pilgrim vs. the World (2010)</item>
+        <item>RED (2010)</item>
+        <item>Kick-Ass (2010)</item>
+        <item>The A-Team (2010)</item>
+        <item>The Other Guys (2010)</item>
+        <item>Megamind (2010)</item>
+        <item>Due Date (2010)</item>
+        <item>Knight and Day (2010)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2009">
+        <item>Black Dynamite (2009)</item>
+        <item>Killer Bean Forever (2009)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2008">
+        <item>Tropic Thunder (2008)</item>
+        <item>Pineapple Express (2008)</item>
+        <item>Get Smart (2008)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2007">
+        <item>Planet Terror (2007)</item>
+        <item>Rush Hour 3 (2007)</item>
+        <item>TMNT (2007)</item>
+        <item>Big Stan (2007)</item>
+        <item>Son of Rambow (2007)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2006">
+        <item>Fay Grim (2006)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2005">
+        <item>Mr. and Mrs. Smith (2005)</item>
+        <item>Zathura - A Space Adventure (2005)</item>
+        <item>Sahara (2005)</item>
+        <item>Feast (2005)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2004">
+        <item>After the Sunset (2004)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2003">
+        <item>Bad Boys II (2003)</item>
+        <item>The Rundown (2003)</item>
+        <item>Johnny English (2003)</item>
+        <item>Shanghai Knights (2003)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2002">
+        <item>Men in Black II (2002)</item>
+        <item>Stark Raving Mad (2002)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2001">
+        <item>Rush Hour 2 (2001)</item>
+        <item>Osmosis Jones (2001)</item>
+    </string-array>
+
+    <string-array name="actionComedy_2000">
+        <item>Miss Congeniality (2000)</item>
+    </string-array>
+
+</resources>

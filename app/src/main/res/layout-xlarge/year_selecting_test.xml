@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@color/colorPrimary">
+
+
+    <TextView
+        android:text="@string/YearSelecting_chooseYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="57sp"
+        android:id="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/spinner"
+        android:layout_marginBottom="35dp"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+    <Spinner
+        android:layout_width="230dp"
+        android:layout_height="80dp"
+        android:background="#80000000"
+        android:popupBackground="@color/colorPrimary"
+        android:layout_marginBottom="35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/button"
+        android:id="@+id/spinner"/>
+
+    <Button
+        android:text="@string/YearSelecting_search"
+        android:layout_width="530dp"
+        android:layout_height="100dp"
+        android:textSize="50sp"
+        android:id="@+id/button"
+        android:background="@drawable/button"
+        android:textColor="@drawable/buttontextcolor"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+
+</RelativeLayout>

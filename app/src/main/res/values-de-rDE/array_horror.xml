@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="horror_All">
+        <item>	A Quiet Place (2018)	</item>
+        <item>	Unsane (2018)	</item>
+        <item>	The Shape of Water (2017)	</item>
+        <item>	Get Out (2017)	</item>
+        <item>	It (2017)	</item>
+        <item>	Alien - Covenant (2017)	</item>
+        <item>	Mother! (2017)	</item>
+        <item>	Annabelle - Creation (2017)	</item>
+        <item>	Geralds Game (2017)	</item>
+        <item>	Life (2017)	</item>
+        <item>	Split (2016)	</item>
+        <item>	10 Cloverfield Lane (2016)	</item>
+        <item>	The Conjuring 2 (2016)	</item>
+        <item>	Dont Breathe (2016)	</item>
+        <item>	The Autopsy of Jane Doe (2016)	</item>
+        <item>	Hush (2016)	</item>
+        <item>	Better Watch Out (2016)	</item>
+        <item>	The Girl with All the Gifts (2016)	</item>
+        <item>	The Wailing (2016)	</item>
+        <item>	The Witch (2015)	</item>
+        <item>	Crimson Peak (2015)	</item>
+        <item>	Bone Tomahawk (2015)	</item>
+        <item>	Green Room (2015)	</item>
+        <item>	The Final Girls (2015)	</item>
+        <item>	It Follows (2014)	</item>
+        <item>	The Purge - Anarchy (2014)	</item>
+        <item>	Stonehearst Asylum (2014)	</item>
+        <item>	Twin Peaks - The Missing Pieces (2014)	</item>
+        <item>	The Conjuring (2013)	</item>
+        <item>	World War Z (2013)	</item>
+        <item>	Insidious - Chapter 2 (2013)	</item>
+        <item>	Evil Dead (2013)	</item>
+        <item>	Oculus (2013)	</item>
+        <item>	House of Good and Evil (2013)	</item>
+        <item>	The Cabin in the Woods (2012)	</item>
+        <item>	Sinister (2012)	</item>
+        <item>	Byzantium (2012)	</item>
+        <item>	The Devils Carnival (2012)	</item>
+        <item>	Youre Next (2011)	</item>
+        <item>	Insidious (2010)	</item>
+        <item>	The Crazies (2010)	</item>
+        <item>	Let Me In (2010)	</item>
+        <item>	Stake Land (2010)	</item>
+        <item>	Nightbeasts (2010)	</item>
+        <item>	Orphan (2009)	</item>
+        <item>	Zombieland (2009)	</item>
+        <item>	Pandorum (2009)	</item>
+        <item>	The Last House on the Left (2009)	</item>
+        <item>	Drag Me to Hell (2009)	</item>
+        <item>	Cloverfield (2008)	</item>
+        <item>	The Mist (2007)	</item>
+        <item>	I Am Legend (2007)	</item>
+        <item>	30 Days of Night (2007)	</item>
+        <item>	1408 (2007)	</item>
+        <item>	Trick r Treat (2007)	</item>
+        <item>	Silent Hill (2006)	</item>
+        <item>	Slither (2006)	</item>
+        <item>	The Devils Rejects (2005)	</item>
+        <item>	The Exorcism of Emily Rose (2005)	</item>
+        <item>	Saw II (2005)	</item>
+        <item>	The Skeleton Key (2005)	</item>
+        <item>	Dawn of the Dead (2004)	</item>
+        <item>	Saw (2004)	</item>
+        <item>	The Ring (2002)	</item>
+        <item>	The Others (2001)	</item>
+        <item>	Pitch Black (2000)	</item>
+    </string-array>
+
+    <string-array name="horror_2018">
+        <item>	A Quiet Place (2018)	</item>
+        <item>	Unsane (2018)	</item>
+    </string-array>
+
+    <string-array name="horror_2017">
+        <item>	The Shape of Water (2017)	</item>
+        <item>	Get Out (2017)	</item>
+        <item>	It (2017)	</item>
+        <item>	Alien - Covenant (2017)	</item>
+        <item>	Mother! (2017)	</item>
+        <item>	Annabelle - Creation (2017)	</item>
+        <item>	Geralds Game (2017)	</item>
+        <item>	Life (2017)	</item>
+    </string-array>
+
+    <string-array name="horror_2016">
+        <item>	Split (2016)	</item>
+        <item>	10 Cloverfield Lane (2016)	</item>
+        <item>	The Conjuring 2 (2016)	</item>
+        <item>	Dont Breathe (2016)	</item>
+        <item>	The Autopsy of Jane Doe (2016)	</item>
+        <item>	Hush (2016)	</item>
+        <item>	Better Watch Out (2016)	</item>
+        <item>	The Girl with All the Gifts (2016)	</item>
+        <item>	The Wailing (2016)	</item>
+    </string-array>
+
+    <string-array name="horror_2015">
+        <item>	The Witch (2015)	</item>
+        <item>	Crimson Peak (2015)	</item>
+        <item>	Bone Tomahawk (2015)	</item>
+        <item>	Green Room (2015)	</item>
+        <item>	The Final Girls (2015)	</item>
+    </string-array>
+
+    <string-array name="horror_2014">
+        <item>	It Follows (2014)	</item>
+        <item>	The Purge - Anarchy (2014)	</item>
+        <item>	Stonehearst Asylum (2014)	</item>
+        <item>	Twin Peaks - The Missing Pieces (2014)	</item>
+    </string-array>
+
+    <string-array name="horror_2013">
+        <item>	The Conjuring (2013)	</item>
+        <item>	World War Z (2013)	</item>
+        <item>	Insidious - Chapter 2 (2013)	</item>
+        <item>	Evil Dead (2013)	</item>
+        <item>	Oculus (2013)	</item>
+        <item>	House of Good and Evil (2013)	</item>
+    </string-array>
+
+    <string-array name="horror_2012">
+        <item>	The Cabin in the Woods (2012)	</item>
+        <item>	Sinister (2012)	</item>
+        <item>	Byzantium (2012)	</item>
+        <item>	The Devils Carnival (2012)	</item>
+    </string-array>
+
+    <string-array name="horror_2011">
+        <item>	Youre Next (2011)	</item>
+    </string-array>
+
+    <string-array name="horror_2010">
+        <item>	Insidious (2010)	</item>
+        <item>	The Crazies (2010)	</item>
+        <item>	Let Me In (2010)	</item>
+        <item>	Stake Land (2010)	</item>
+        <item>	Nightbeasts (2010)	</item>
+    </string-array>
+
+    <string-array name="horror_2009">
+        <item>	Orphan (2009)	</item>
+        <item>	Zombieland (2009)	</item>
+        <item>	Pandorum (2009)	</item>
+        <item>	The Last House on the Left (2009)	</item>
+        <item>	Drag Me to Hell (2009)	</item>
+    </string-array>
+
+    <string-array name="horror_2008">
+        <item>	Cloverfield (2008)	</item>
+    </string-array>
+
+    <string-array name="horror_2007">
+        <item>	The Mist (2007)	</item>
+        <item>	I Am Legend (2007)	</item>
+        <item>	30 Days of Night (2007)	</item>
+        <item>	1408 (2007)	</item>
+        <item>	Trick r Treat (2007)	</item>
+    </string-array>
+
+    <string-array name="horror_2006">
+        <item>	Silent Hill (2006)	</item>
+        <item>	Slither (2006)	</item>
+    </string-array>
+
+    <string-array name="horror_2005">
+        <item>	The Devils Rejects (2005)	</item>
+        <item>	The Exorcism of Emily Rose (2005)	</item>
+        <item>	Saw II (2005)	</item>
+        <item>	The Skeleton Key (2005)	</item>
+    </string-array>
+
+    <string-array name="horror_2004">
+        <item>	Dawn of the Dead (2004)	</item>
+        <item>	Saw (2004)	</item>
+    </string-array>
+
+    <string-array name="horror_2003">
+    </string-array>
+
+    <string-array name="horror_2002">
+        <item>	The Ring (2002)	</item>
+    </string-array>
+
+</resources>

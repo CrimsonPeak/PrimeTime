@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="family_All">
+        <item>	I Can Only Imagine (2018)	</item>
+        <item>	Pelle Kanin (2018)	</item>
+        <item>	Coco (2017)	</item>
+        <item>	Ferdinand (2017)	</item>
+        <item>	Wonder (2017)	</item>
+        <item>	Paddington 2 (2017)	</item>
+        <item>	Beauty and the Beast (2017)	</item>
+        <item>	Cars 3 (2017)	</item>
+        <item>	The LEGO Batman Movie (2017)	</item>
+        <item>	A Dogs Purpose (2017)	</item>
+        <item>	Zootopia (2016)	</item>
+        <item>	Moana (2016)	</item>
+        <item>	Fantastic Beasts and Where to Find Them (2016)	</item>
+        <item>	Sing (2016)	</item>
+        <item>	The Jungle Book (2016)	</item>
+        <item>	Trolls (2016)	</item>
+        <item>	Miss Peregrines Home for Peculiar Children (2016)	</item>
+        <item>	Finding Dory (2016)	</item>
+        <item>	Kubo and the Two Strings (2016)	</item>
+        <item>	Kung Fu Panda 3 (2016)	</item>
+        <item>	Storks (2016)	</item>
+        <item>	Miracles from Heaven (2016)	</item>
+        <item>	Petes Dragon (2016)	</item>
+        <item>	Greater (2016)	</item>
+        <item>	Inside Out (2015)	</item>
+        <item>	Cinderella (2015)	</item>
+        <item>	Tomorrowland (2015)	</item>
+        <item>	Hotel Transylvania 2 (2015)	</item>
+        <item>	The Good Dinosaur (2015)	</item>
+        <item>	The Peanuts Movie (2015)	</item>
+        <item>	Home (2015)	</item>
+        <item>	Max (2015)	</item>
+        <item>	Full Out (2015)	</item>
+        <item>	The Great Gilly Hopkins (2015)	</item>
+        <item>	Jack of the Red Hearts (2015)	</item>
+        <item>	Big Hero 6 (2014)	</item>
+        <item>	Maleficent (2014)	</item>
+        <item>	Paddington (2014)	</item>
+        <item>	The Lego Movie (2014)	</item>
+        <item>	How to Train Your Dragon 2 (2014)	</item>
+        <item>	The Book of Life (2014)	</item>
+        <item>	Penguins of Madagascar (2014)	</item>
+        <item>	Mr. Peabody and Sherman (2014)	</item>
+        <item>	The Boxtrolls (2014)	</item>
+        <item>	When the Game Stands Tall (2014)	</item>
+        <item>	Where Hope Grows (2014)	</item>
+        <item>	Stand by Me Doraemon (2014)	</item>
+        <item>	Frozen (2013)	</item>
+        <item>	Despicable Me 2 (2013)	</item>
+        <item>	Monsters University (2013)	</item>
+        <item>	Saving Mr. Banks (2013)	</item>
+        <item>	The Croods (2013)	</item>
+        <item>	Epic (2013)	</item>
+        <item>	Turbo (2013)	</item>
+        <item>	Wreck-It Ralph (2012)	</item>
+        <item>	The Hobbit - An Unexpected Journey (2012)	</item>
+        <item>	Brave (2012)	</item>
+        <item>	Hotel Transylvania (2012)	</item>
+        <item>	Rise of the Guardians (2012)	</item>
+        <item>	Madagascar 3 - Europes Most Wanted (2012)	</item>
+        <item>	Ice Age - Continental Drift (2012)	</item>
+        <item>	The Odd Life of Timothy Green (2012)	</item>
+        <item>	Frankenweenie (2012)	</item>
+        <item>	ParaNorman (2012)	</item>
+        <item>	Secret of the Wings (2012)	</item>
+        <item>	Real Steel (2011)	</item>
+        <item>	Hugo (2011)	</item>
+        <item>	The Adventures of Tintin (2011)	</item>
+        <item>	Soul Surfer (2011)	</item>
+        <item>	Rio (2011)	</item>
+        <item>	Rango (2011)	</item>
+        <item>	We Bought a Zoo (2011)	</item>
+        <item>	Kung Fu Panda 2 (2011)	</item>
+        <item>	The Muppets (2011)	</item>
+        <item>	Puss in Boots (2011)	</item>
+        <item>	Winnie the Pooh (2011)	</item>
+        <item>	Dolphin Tale (2011)	</item>
+        <item>	Diary of a Wimpy Kid - Rodrick Rules (2011)	</item>
+        <item>	Red Dog (2011)	</item>
+        <item>	Arthur Christmas (2011)	</item>
+        <item>	Touchback (2011)	</item>
+        <item>	Tangled (2010)	</item>
+        <item>	Harry Potter and the Deathly Hallows - Part 1 (2010)	</item>
+        <item>	Toy Story 3 (2010)	</item>
+        <item>	How to Train Your Dragon (2010)	</item>
+        <item>	Alice in Wonderland (2010)	</item>
+        <item>	Despicable Me (2010)	</item>
+        <item>	Megamind (2010)	</item>
+        <item>	Legend of the Guardians - The Owls of GaHoole (2010)	</item>
+        <item>	Secretariat (2010)	</item>
+        <item>	What If... (2010)	</item>
+        <item>	Up (2009)	</item>
+        <item>	Harry Potter and the Half-Blood Prince (2009)	</item>
+        <item>	Coraline (2009)	</item>
+        <item>	The Princess and the Frog (2009)	</item>
+        <item>	Hachi - A Dogs Tale (2009)	</item>
+        <item>	Till vildingarnas land (2009)	</item>
+        <item>	Cloudy with a Chance of Meatballs (2009)	</item>
+        <item>	Monsters vs. Aliens (2009)	</item>
+        <item>	My Sisters Keeper (2009)	</item>
+        <item>	The Perfect Game (2009)	</item>
+        <item>	Alabama Moon (2009)	</item>
+        <item>	WALL·E (2008)	</item>
+        <item>	The Chronicles of Narnia - Prince Caspian (2008)	</item>
+        <item>	Kung Fu Panda (2008)	</item>
+        <item>	Bolt (2008)	</item>
+        <item>	The Spiderwick Chronicles (2008)	</item>
+        <item>	City of Ember (2008)	</item>
+        <item>	Horton Hears a Who! (2008)	</item>
+        <item>	Harry Potter and the Order of the Phoenix (2007)	</item>
+        <item>	Stardust (2007)	</item>
+        <item>	Ratatouille (2007)	</item>
+        <item>	Bridge to Terabithia (2007)	</item>
+        <item>	Enchanted (2007)	</item>
+        <item>	Meet the Robinsons (2007)	</item>
+        <item>	National Treasure - Book of Secrets (2007)	</item>
+        <item>	Martian Child (2007)	</item>
+        <item>	Surfs Up (2007)	</item>
+        <item>	Cars (2006)	</item>
+        <item>	Over the Hedge (2006)	</item>
+        <item>	Happy Feet (2006)	</item>
+        <item>	Monster House (2006)	</item>
+        <item>	Flushed Away (2006)	</item>
+        <item>	Charlie and the Chocolate Factory (2005)	</item>
+        <item>	Harry Potter and the Goblet of Fire (2005)	</item>
+    </string-array>
+
+    <string-array name="family_2018">
+        <item>	I Can Only Imagine (2018)	</item>
+        <item>	Pelle Kanin (2018)	</item>
+    </string-array>
+
+    <string-array name="family_2017">
+        <item>	Coco (2017)	</item>
+        <item>	Ferdinand (2017)	</item>
+        <item>	Wonder (2017)	</item>
+        <item>	Paddington 2 (2017)	</item>
+        <item>	Beauty and the Beast (2017)	</item>
+        <item>	Cars 3 (2017)	</item>
+        <item>	The LEGO Batman Movie (2017)	</item>
+        <item>	A Dogs Purpose (2017)	</item>
+    </string-array>
+
+    <string-array name="family_2016">
+        <item>	Zootopia (2016)	</item>
+        <item>	Moana (2016)	</item>
+        <item>	Fantastic Beasts and Where to Find Them (2016)	</item>
+        <item>	Sing (2016)	</item>
+        <item>	The Jungle Book (2016)	</item>
+        <item>	Trolls (2016)	</item>
+        <item>	Miss Peregrines Home for Peculiar Children (2016)	</item>
+        <item>	Finding Dory (2016)	</item>
+        <item>	Kubo and the Two Strings (2016)	</item>
+        <item>	Kung Fu Panda 3 (2016)	</item>
+        <item>	Storks (2016)	</item>
+        <item>	Miracles from Heaven (2016)	</item>
+        <item>	Petes Dragon (2016)	</item>
+        <item>	Greater (2016)	</item>
+    </string-array>
+
+    <string-array name="family_2015">
+        <item>	Inside Out (2015)	</item>
+        <item>	Cinderella (2015)	</item>
+        <item>	Tomorrowland (2015)	</item>
+        <item>	Hotel Transylvania 2 (2015)	</item>
+        <item>	The Good Dinosaur (2015)	</item>
+        <item>	The Peanuts Movie (2015)	</item>
+        <item>	Home (2015)	</item>
+        <item>	Max (2015)	</item>
+        <item>	Full Out (2015)	</item>
+        <item>	The Great Gilly Hopkins (2015)	</item>
+        <item>	Jack of the Red Hearts (2015)	</item>
+    </string-array>
+
+    <string-array name="family_2014">
+        <item>	Big Hero 6 (2014)	</item>
+        <item>	Maleficent (2014)	</item>
+        <item>	Paddington (2014)	</item>
+        <item>	The Lego Movie (2014)	</item>
+        <item>	How to Train Your Dragon 2 (2014)	</item>
+        <item>	The Book of Life (2014)	</item>
+        <item>	Penguins of Madagascar (2014)	</item>
+        <item>	Mr. Peabody and Sherman (2014)	</item>
+        <item>	The Boxtrolls (2014)	</item>
+        <item>	When the Game Stands Tall (2014)	</item>
+        <item>	Where Hope Grows (2014)	</item>
+        <item>	Stand by Me Doraemon (2014)	</item>
+    </string-array>
+
+    <string-array name="family_2013">
+        <item>	Frozen (2013)	</item>
+        <item>	Despicable Me 2 (2013)	</item>
+        <item>	Monsters University (2013)	</item>
+        <item>	Saving Mr. Banks (2013)	</item>
+        <item>	The Croods (2013)	</item>
+        <item>	Epic (2013)	</item>
+        <item>	Turbo (2013)	</item>
+    </string-array>
+
+    <string-array name="family_2012">
+        <item>	Wreck-It Ralph (2012)	</item>
+        <item>	The Hobbit - An Unexpected Journey (2012)	</item>
+        <item>	Brave (2012)	</item>
+        <item>	Hotel Transylvania (2012)	</item>
+        <item>	Rise of the Guardians (2012)	</item>
+        <item>	Madagascar 3 - Europes Most Wanted (2012)	</item>
+        <item>	Ice Age - Continental Drift (2012)	</item>
+        <item>	The Odd Life of Timothy Green (2012)	</item>
+        <item>	Frankenweenie (2012)	</item>
+        <item>	ParaNorman (2012)	</item>
+        <item>	Secret of the Wings (2012)	</item>
+    </string-array>
+
+    <string-array name="family_2011">
+        <item>	Real Steel (2011)	</item>
+        <item>	Hugo (2011)	</item>
+        <item>	The Adventures of Tintin (2011)	</item>
+        <item>	Soul Surfer (2011)	</item>
+        <item>	Rio (2011)	</item>
+        <item>	Rango (2011)	</item>
+        <item>	We Bought a Zoo (2011)	</item>
+        <item>	Kung Fu Panda 2 (2011)	</item>
+        <item>	The Muppets (2011)	</item>
+        <item>	Puss in Boots (2011)	</item>
+        <item>	Winnie the Pooh (2011)	</item>
+        <item>	Dolphin Tale (2011)	</item>
+        <item>	Diary of a Wimpy Kid - Rodrick Rules (2011)	</item>
+        <item>	Red Dog (2011)	</item>
+        <item>	Arthur Christmas (2011)	</item>
+        <item>	Touchback (2011)	</item>
+    </string-array>
+
+    <string-array name="family_2010">
+        <item>	Tangled (2010)	</item>
+        <item>	Harry Potter and the Deathly Hallows - Part 1 (2010)	</item>
+        <item>	Toy Story 3 (2010)	</item>
+        <item>	How to Train Your Dragon (2010)	</item>
+        <item>	Alice in Wonderland (2010)	</item>
+        <item>	Despicable Me (2010)	</item>
+        <item>	Megamind (2010)	</item>
+        <item>	Legend of the Guardians - The Owls of GaHoole (2010)	</item>
+        <item>	Secretariat (2010)	</item>
+        <item>	What If... (2010)	</item>
+    </string-array>
+
+    <string-array name="family_2009">
+        <item>	Up (2009)	</item>
+        <item>	Harry Potter and the Half-Blood Prince (2009)	</item>
+        <item>	Coraline (2009)	</item>
+        <item>	The Princess and the Frog (2009)	</item>
+        <item>	Hachi - A Dogs Tale (2009)	</item>
+        <item>	Till vildingarnas land (2009)	</item>
+        <item>	Cloudy with a Chance of Meatballs (2009)	</item>
+        <item>	Monsters vs. Aliens (2009)	</item>
+        <item>	My Sisters Keeper (2009)	</item>
+        <item>	The Perfect Game (2009)	</item>
+        <item>	Alabama Moon (2009)	</item>
+    </string-array>
+
+    <string-array name="family_2008">
+        <item>	WALL·E (2008)	</item>
+        <item>	The Chronicles of Narnia - Prince Caspian (2008)	</item>
+        <item>	Kung Fu Panda (2008)	</item>
+        <item>	Bolt (2008)	</item>
+        <item>	The Spiderwick Chronicles (2008)	</item>
+        <item>	City of Ember (2008)	</item>
+        <item>	Horton Hears a Who! (2008)	</item>
+    </string-array>
+
+    <string-array name="family_2007">
+        <item>	Harry Potter and the Order of the Phoenix (2007)	</item>
+        <item>	Stardust (2007)	</item>
+        <item>	Ratatouille (2007)	</item>
+        <item>	Bridge to Terabithia (2007)	</item>
+        <item>	Enchanted (2007)	</item>
+        <item>	Meet the Robinsons (2007)	</item>
+        <item>	National Treasure - Book of Secrets (2007)	</item>
+        <item>	Martian Child (2007)	</item>
+        <item>	Surfs Up (2007)	</item>
+    </string-array>
+
+    <string-array name="family_2006">
+        <item>	Cars (2006)	</item>
+        <item>	Over the Hedge (2006)	</item>
+        <item>	Happy Feet (2006)	</item>
+        <item>	Monster House (2006)	</item>
+        <item>	Flushed Away (2006)	</item>
+    </string-array>
+
+    <string-array name="family_2005">
+        <item>	Charlie and the Chocolate Factory (2005)	</item>
+        <item>	Harry Potter and the Goblet of Fire (2005)	</item>
+    </string-array>
+
+</resources>

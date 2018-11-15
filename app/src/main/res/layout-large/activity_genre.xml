@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="@string/GenreActivity_action"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:id="@+id/buttonAction" />
+
+            <Button
+                android:text="@string/GenreActivity_action_comedy"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonAction"
+                android:layout_gravity="center"
+                android:id="@+id/buttonActionComedy" />
+
+            <Button
+                android:text="@string/GenreActivity_adventure"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonActionComedy"
+                android:layout_gravity="center"
+                android:id="@+id/buttonAdventure" />
+
+            <Button
+                android:text="@string/GenreActivity_animation"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonAdventure"
+                android:layout_gravity="center"
+                android:id="@+id/buttonAnimation" />
+
+            <Button
+                android:text="@string/GenreActivity_biographical"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonAnimation"
+                android:layout_gravity="center"
+                android:id="@+id/buttonBiography" />
+
+            <Button
+                android:text="@string/GenreActivity_comedy"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonBiography"
+                android:layout_gravity="center"
+                android:id="@+id/buttonComedy" />
+
+            <Button
+                android:text="@string/GenreActivity_crime"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonComedy"
+                android:layout_gravity="center"
+                android:id="@+id/buttonCrime" />
+
+            <Button
+                android:text="@string/GenreActivity_drama"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonCrime"
+                android:layout_gravity="center"
+                android:id="@+id/buttonDrama" />
+
+            <Button
+                android:text="@string/GenreActivity_family"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonDrama"
+                android:layout_gravity="center"
+                android:id="@+id/buttonFamily" />
+
+            <Button
+                android:text="@string/GenreActivity_fantasy"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonFamily"
+                android:layout_gravity="center"
+                android:id="@+id/buttonFantasy" />
+
+            <Button
+                android:text="@string/GenreActivity_history"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="19sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonFantasy"
+                android:layout_gravity="center"
+                android:id="@+id/buttonHistory" />
+
+            <Button
+                android:text="@string/GenreActivity_horror"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonHistory"
+                android:layout_gravity="center"
+                android:id="@+id/buttonHorror" />
+
+            <Button
+                android:text="@string/GenreActivity_mystery_thriller"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_l_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonHorror"
+                android:layout_gravity="center"
+                android:id="@+id/buttonMysteryThriller" />
+
+            <Button
+                android:text="@string/GenreActivity_romance_comedy"
+                android:layout_width="342dp"
+                android:layout_height="75dp"
+                android:textSize="30sp"
+                android:background="@drawable/buttonbg_large"
+                android:textColor="@drawable/buttontextcolor"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:layout_marginTop="13dp"
+                android:layout_below="@+id/buttonMysteryThriller"
+                android:layout_gravity="center"
+                android:id="@+id/buttonRomanceComedy" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

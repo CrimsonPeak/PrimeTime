@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drama_All">
+        <item>	Annihilation (2018)	</item>
+        <item>	A Quiet Place (2018)	</item>
+        <item>	Isle of Dogs (2018)	</item>
+        <item>	Red Sparrow (2018)	</item>
+        <item>	Love, Simon (2018)	</item>
+        <item>	I Can Only Imagine (2018)	</item>
+        <item>	Death Wish (2018)	</item>
+        <item>	Den of Thieves (2018)	</item>
+        <item>	12 Strong (2018)	</item>
+        <item>	The Greatest Showman (2017)	</item>
+        <item>	The Shape of Water (2017)	</item>
+        <item>	I Kill Giants (2017)	</item>
+        <item>	All the Money in the World (2017)	</item>
+        <item>	Three Billboards Outside Ebbing, Missouri (2017)	</item>
+        <item>	Mollys Game (2017)	</item>
+        <item>	Murder on the Orient Express (2017)	</item>
+        <item>	I, Tonya (2017)	</item>
+        <item>	Call Me by Your Name (2017)	</item>
+        <item>	Blade Runner 2049 (2017)	</item>
+        <item>	Phantom Thread (2017)	</item>
+        <item>	Wonder (2017)	</item>
+        <item>	Lady Bird (2017)	</item>
+        <item>	Wind River (2017)	</item>
+        <item>	Darkest Hour (2017)	</item>
+        <item>	Dunkirk (2017)	</item>
+        <item>	You Were Never Really Here (2017)	</item>
+        <item>	The Disaster Artist (2017)	</item>
+        <item>	The Florida Project (2017)	</item>
+        <item>	Logan (2017)	</item>
+        <item>	Logan Lucky (2017)	</item>
+        <item>	The Killing of a Sacred Deer (2017)	</item>
+        <item>	Mother! (2017)	</item>
+        <item>	The Post (2017)	</item>
+        <item>	Hostiles (2017)	</item>
+        <item>	King Arthur - Legend of the Sword (2017)	</item>
+        <item>	Only the Brave (2017)	</item>
+        <item>	The Foreigner (2017)	</item>
+        <item>	American Made (2017)	</item>
+        <item>	War for the Planet of the Apes (2017)	</item>
+        <item>	The Big Sick (2017)	</item>
+        <item>	Thoroughbreds (2017)	</item>
+        <item>	The Book of Henry (2017)	</item>
+        <item>	Mudbound (2017)	</item>
+        <item>	Detroit (2017)	</item>
+        <item>	Good Time (2017)	</item>
+        <item>	Battle of the Sexes (2017)	</item>
+        <item>	The Vanishing of Sidney Hall (2017)	</item>
+        <item>	Gifted (2017)	</item>
+        <item>	Shot Caller (2017)	</item>
+        <item>	Okja (2017)	</item>
+        <item>	Lucky (2017)	</item>
+        <item>	Loveless (2017)	</item>
+        <item>	Hacksaw Ridge (2016)	</item>
+        <item>	La La Land (2016)	</item>
+        <item>	The Jungle Book (2016)	</item>
+        <item>	Arrival (2016)	</item>
+        <item>	Moonlight (2016)	</item>
+        <item>	Patriots Day (2016)	</item>
+        <item>	Hidden Figures (2016)	</item>
+        <item>	Me Before You (2016)	</item>
+        <item>	Nocturnal Animals (2016)	</item>
+        <item>	13 Hours (2016)	</item>
+        <item>	Manchester by the Sea (2016)	</item>
+        <item>	Lion (2016)	</item>
+        <item>	Hell or High Water (2016)	</item>
+        <item>	The Edge of Seventeen (2016)	</item>
+        <item>	Captain Fantastic (2016)	</item>
+        <item>	The Nice Guys (2016)	</item>
+        <item>	The Accountant (2016)	</item>
+        <item>	Miss Sloane (2016)	</item>
+        <item>	Snowden (2016)	</item>
+        <item>	A Monster Calls (2016)	</item>
+        <item>	Sully (2016)	</item>
+        <item>	Paterson (2016)	</item>
+        <item>	Sing Street (2016)	</item>
+        <item>	Eddie the Eagle (2016)	</item>
+        <item>	20th Century Women (2016)	</item>
+        <item>	The Fundamentals of Caring (2016)	</item>
+        <item>	Mr. Church (2016)	</item>
+        <item>	Queen of Katwe (2016)	</item>
+        <item>	Blue Jay (2016)	</item>
+        <item>	Autumn Lights (2016)	</item>
+        <item>	Sicario (2015)	</item>
+        <item>	The Hateful Eight (2015)	</item>
+        <item>	Room (2015)	</item>
+        <item>	The Martian (2015)	</item>
+        <item>	The Revenant (2015)	</item>
+        <item>	Bridge of Spies (2015)	</item>
+        <item>	Spotlight (2015)	</item>
+        <item>	Brooklyn (2015)	</item>
+        <item>	Creed (2015)	</item>
+        <item>	The Big Short (2015)	</item>
+        <item>	Straight Outta Compton (2015)	</item>
+        <item>	Southpaw (2015)	</item>
+        <item>	Me and Earl and the Dying Girl (2015)	</item>
+        <item>	Trumbo (2015)	</item>
+        <item>	The Walk (2015)	</item>
+        <item>	Beasts of No Nation (2015)	</item>
+        <item>	Anomalisa (2015)	</item>
+        <item>	Little Boy (2015)	</item>
+        <item>	The End of the Tour (2015)	</item>
+        <item>	Jack of the Red Hearts (2015)	</item>
+        <item>	Parched (2015)	</item>
+        <item>	Pali Road (2015)	</item>
+        <item>	Flytrap (2015)	</item>
+        <item>	Moor (2015)	</item>
+        <item>	Interstellar (2014)	</item>
+        <item>	The Theory of Everything (2014)	</item>
+        <item>	Gone Girl (2014)	</item>
+        <item>	The Grand Budapest Hotel (2014)	</item>
+        <item>	Whiplash (2014)	</item>
+        <item>	Fury (2014)	</item>
+        <item>	The Imitation Game (2014)	</item>
+        <item>	American Sniper (2014)	</item>
+        <item>	Nightcrawler (2014)	</item>
+        <item>	The Fault in Our Stars (2014)	</item>
+        <item>	The Judge (2014)	</item>
+        <item>	Selma (2014)	</item>
+        <item>	St. Vincent (2014)	</item>
+        <item>	Still Alice (2014)	</item>
+        <item>	I Origins (2014)	</item>
+        <item>	Youre Not You (2014)	</item>
+        <item>	Love and Mercy (2014)	</item>
+        <item>	The Good Lie (2014)	</item>
+        <item>	Rudderless (2014)	</item>
+        <item>	Prisoners (2013)	</item>
+        <item>	Her (2013)	</item>
+        <item>	Rush (2013)	</item>
+        <item>	Gravity (2013)	</item>
+        <item>	12 Years a Slave (2013)	</item>
+        <item>	American Hustle (2013)	</item>
+        <item>	Dallas Buyers Club (2013)	</item>
+        <item>	Lone Survivor (2013)	</item>
+        <item>	Begin Again (2013)	</item>
+        <item>	The Secret Life of Walter Mitty (2013)	</item>
+        <item>	Captain Phillips (2013)	</item>
+        <item>	Blue Jasmine (2013)	</item>
+        <item>	42 (2013)	</item>
+        <item>	Saving Mr. Banks (2013)	</item>
+        <item>	Inside Llewyn Davis (2013)	</item>
+        <item>	The Way Way Back (2013)	</item>
+        <item>	Fruitvale Station (2013)	</item>
+        <item>	Only Lovers Left Alive (2013)	</item>
+        <item>	Short Term 12 (2013)	</item>
+        <item>	Before Midnight (2013)	</item>
+        <item>	The Book Thief (2013)	</item>
+        <item>	Nebraska (2013)	</item>
+        <item>	Philomena (2013)	</item>
+        <item>	The Lunchbox (2013)	</item>
+        <item>	Clubhouse (2013)	</item>
+        <item>	Moonrise Kingdom (2012)	</item>
+        <item>	Django Unchained (2012)	</item>
+        <item>	Les Misérables (2012)	</item>
+        <item>	Cloud Atlas (2012)	</item>
+        <item>	Lincoln (2012)	</item>
+        <item>	Zero Dark Thirty (2012)	</item>
+        <item>	The Perks of Being a Wallflower (2012)	</item>
+        <item>	The Place Beyond the Pines (2012)	</item>
+        <item>	Mud (2012)	</item>
+        <item>	Argo (2012)	</item>
+        <item>	Lawless (2012)	</item>
+        <item>	The Impossible (2012)	</item>
+        <item>	Flight (2012)	</item>
+        <item>	Life of Pi (2012)	</item>
+        <item>	End of Watch (2012)	</item>
+        <item>	Frances Ha (2012)	</item>
+        <item>	Stuck in Love (2012)	</item>
+        <item>	Beasts of the Southern Wild (2012)	</item>
+        <item>	Disconnect (2012)	</item>
+        <item>	What Maisie Knew (2012)	</item>
+        <item>	Unconditional (2012)	</item>
+        <item>	Any Day Now (2012)	</item>
+        <item>	Chittagong (2012)	</item>
+        <item>	The Third Half (2012)	</item>
+        <item>	The Help (2011)	</item>
+        <item>	Drive (2011)	</item>
+        <item>	The Girl with the Dragon Tattoo (2011)	</item>
+        <item>	Warrior (2011)	</item>
+        <item>	Hugo (2011)	</item>
+        <item>	Moneyball (2011)	</item>
+        <item>	We Need to Talk About Kevin (2011)	</item>
+        <item>	50/50 (2011)	</item>
+        <item>	The Lincoln Lawyer (2011)	</item>
+        <item>	The Descendants (2011)	</item>
+        <item>	Jane Eyre (2011)	</item>
+        <item>	The Artist (2011)	</item>
+        <item>	Take Shelter (2011)	</item>
+        <item>	The Best Exotic Marigold Hotel (2011)	</item>
+        <item>	Detachment (2011)	</item>
+        <item>	Red Dog (2011)	</item>
+        <item>	The Music Never Stopped (2011)	</item>
+        <item>	The Social Network (2010)	</item>
+        <item>	Black Swan (2010)	</item>
+        <item>	The Town (2010)	</item>
+        <item>	True Grit (2010)	</item>
+        <item>	Blue Valentine (2010)	</item>
+        <item>	The Kings Speech (2010)	</item>
+        <item>	The Way Back (2010)	</item>
+        <item>	The Fighter (2010)	</item>
+        <item>	127 Hours (2010)	</item>
+        <item>	Submarine (2010)	</item>
+        <item>	The Next Three Days (2010)	</item>
+        <item>	The Yellow Sea (2010)	</item>
+        <item>	Soldiers (2010)	</item>
+        <item>	The First Grader (2010)	</item>
+        <item>	Inglourious Basterds (2009)	</item>
+        <item>	Watchmen (2009)	</item>
+        <item>	The Blind Side (2009)	</item>
+        <item>	Up in the Air (2009)	</item>
+        <item>	Mr. Nobody (2009)	</item>
+        <item>	500 Days of Summer (2009)	</item>
+        <item>	The Road (2009)	</item>
+        <item>	Law Abiding Citizen (2009)	</item>
+        <item>	Hachi - A Dogs Tale (2009)	</item>
+        <item>	The Young Victoria (2009)	</item>
+        <item>	Precious (2009)	</item>
+        <item>	A Single Man (2009)	</item>
+        <item>	An Education (2009)	</item>
+        <item>	My Sisters Keeper (2009)	</item>
+        <item>	Invictus (2009)	</item>
+        <item>	Crazy Heart (2009)	</item>
+        <item>	Sin Nombre (2009)	</item>
+        <item>	City Island (2009)	</item>
+        <item>	Revolutionary Road (2008)	</item>
+        <item>	In Bruges (2008)	</item>
+        <item>	The Curious Case of Benjamin Button (2008)	</item>
+        <item>	The Hurt Locker (2008)	</item>
+        <item>	The Reader (2008)	</item>
+        <item>	Slumdog Millionaire (2008)	</item>
+        <item>	Gran Torino (2008)	</item>
+        <item>	Seven Pounds (2008)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	The Wrestler (2008)	</item>
+        <item>	Synecdoche, New York (2008)	</item>
+        <item>	The Bank Job (2008)	</item>
+        <item>	Felon (2008)	</item>
+        <item>	The Secret Life of Bees (2008)	</item>
+        <item>	The Express (2008)	</item>
+        <item>	Waltz with Bashir (2008)	</item>
+        <item>	Forever Strong (2008)	</item>
+        <item>	Goodbye Solo (2008)	</item>
+        <item>	Broken Angel (2008)	</item>
+        <item>	No Country for Old Men (2007)	</item>
+        <item>	Atonement (2007)	</item>
+        <item>	There Will Be Blood (2007)	</item>
+        <item>	Into the Wild (2007)	</item>
+        <item>	Zodiac (2007)	</item>
+        <item>	American Gangster (2007)	</item>
+        <item>	Sweeney Todd - The Demon Barber of Fleet Street (2007)	</item>
+        <item>	Gone Baby Gone (2007)	</item>
+        <item>	The Man from Earth (2007)	</item>
+        <item>	Michael Clayton (2007)	</item>
+        <item>	August Rush (2007)	</item>
+        <item>	The Bucket List (2007)	</item>
+        <item>	Freedom Writers (2007)	</item>
+        <item>	Mr. Brooks (2007)	</item>
+        <item>	Reign Over Me (2007)	</item>
+        <item>	The Kite Runner (2007)	</item>
+        <item>	An American Crime (2007)	</item>
+        <item>	Control (2007)	</item>
+        <item>	The Visitor(2007)	</item>
+        <item>	The Boy in the Striped Pajamas (2008)	</item>
+        <item>	Elvis and Anabelle (2007)	</item>
+        <item>	The Prestige (2006)	</item>
+        <item>	Pans Labyrinth (2006)	</item>
+        <item>	Children of Men (2006)	</item>
+    </string-array>
+
+    <string-array name="drama_2018">
+        <item>	Annihilation (2018)	</item>
+        <item>	A Quiet Place (2018)	</item>
+        <item>	Isle of Dogs (2018)	</item>
+        <item>	Red Sparrow (2018)	</item>
+        <item>	Love, Simon (2018)	</item>
+        <item>	I Can Only Imagine (2018)	</item>
+        <item>	Death Wish (2018)	</item>
+        <item>	Den of Thieves (2018)	</item>
+        <item>	12 Strong (2018)	</item>
+    </string-array>
+
+    <string-array name="drama_2017">
+        <item>	The Greatest Showman (2017)	</item>
+        <item>	The Shape of Water (2017)	</item>
+        <item>	I Kill Giants (2017)	</item>
+        <item>	All the Money in the World (2017)	</item>
+        <item>	Three Billboards Outside Ebbing, Missouri (2017)	</item>
+        <item>	Mollys Game (2017)	</item>
+        <item>	Murder on the Orient Express (2017)	</item>
+        <item>	I, Tonya (2017)	</item>
+        <item>	Call Me by Your Name (2017)	</item>
+        <item>	Blade Runner 2049 (2017)	</item>
+        <item>	Phantom Thread (2017)	</item>
+        <item>	Wonder (2017)	</item>
+        <item>	Lady Bird (2017)	</item>
+        <item>	Wind River (2017)	</item>
+        <item>	Darkest Hour (2017)	</item>
+        <item>	Dunkirk (2017)	</item>
+        <item>	You Were Never Really Here (2017)	</item>
+        <item>	The Disaster Artist (2017)	</item>
+        <item>	The Florida Project (2017)	</item>
+        <item>	Logan (2017)	</item>
+        <item>	Logan Lucky (2017)	</item>
+        <item>	The Killing of a Sacred Deer (2017)	</item>
+        <item>	Mother! (2017)	</item>
+        <item>	The Post (2017)	</item>
+        <item>	Hostiles (2017)	</item>
+        <item>	King Arthur - Legend of the Sword (2017)	</item>
+        <item>	Only the Brave (2017)	</item>
+        <item>	The Foreigner (2017)	</item>
+        <item>	American Made (2017)	</item>
+        <item>	War for the Planet of the Apes (2017)	</item>
+        <item>	The Big Sick (2017)	</item>
+        <item>	Thoroughbreds (2017)	</item>
+        <item>	The Book of Henry (2017)	</item>
+        <item>	Mudbound (2017)	</item>
+        <item>	Detroit (2017)	</item>
+        <item>	Good Time (2017)	</item>
+        <item>	Battle of the Sexes (2017)	</item>
+        <item>	The Vanishing of Sidney Hall (2017)	</item>
+        <item>	Gifted (2017)	</item>
+        <item>	Shot Caller (2017)	</item>
+        <item>	Okja (2017)	</item>
+        <item>	Lucky (2017)	</item>
+        <item>	Loveless (2017)	</item>
+    </string-array>
+
+    <string-array name="drama_2016">
+        <item>	Hacksaw Ridge (2016)	</item>
+        <item>	La La Land (2016)	</item>
+        <item>	The Jungle Book (2016)	</item>
+        <item>	Arrival (2016)	</item>
+        <item>	Moonlight (2016)	</item>
+        <item>	Patriots Day (2016)	</item>
+        <item>	Hidden Figures (2016)	</item>
+        <item>	Me Before You (2016)	</item>
+        <item>	Nocturnal Animals (2016)	</item>
+        <item>	13 Hours (2016)	</item>
+        <item>	Manchester by the Sea (2016)	</item>
+        <item>	Lion (2016)	</item>
+        <item>	Hell or High Water (2016)	</item>
+        <item>	The Edge of Seventeen (2016)	</item>
+        <item>	Captain Fantastic (2016)	</item>
+        <item>	The Nice Guys (2016)	</item>
+        <item>	The Accountant (2016)	</item>
+        <item>	Miss Sloane (2016)	</item>
+        <item>	Snowden (2016)	</item>
+        <item>	A Monster Calls (2016)	</item>
+        <item>	Sully (2016)	</item>
+        <item>	Paterson (2016)	</item>
+        <item>	Sing Street (2016)	</item>
+        <item>	Eddie the Eagle (2016)	</item>
+        <item>	20th Century Women (2016)	</item>
+        <item>	The Fundamentals of Caring (2016)	</item>
+        <item>	Mr. Church (2016)	</item>
+        <item>	Queen of Katwe (2016)	</item>
+        <item>	Blue Jay (2016)	</item>
+        <item>	Autumn Lights (2016)	</item>
+    </string-array>
+
+    <string-array name="drama_2015">
+        <item>	Sicario (2015)	</item>
+        <item>	The Hateful Eight (2015)	</item>
+        <item>	Room (2015)	</item>
+        <item>	The Martian (2015)	</item>
+        <item>	The Revenant (2015)	</item>
+        <item>	Bridge of Spies (2015)	</item>
+        <item>	Spotlight (2015)	</item>
+        <item>	Brooklyn (2015)	</item>
+        <item>	Creed (2015)	</item>
+        <item>	The Big Short (2015)	</item>
+        <item>	Straight Outta Compton (2015)	</item>
+        <item>	Southpaw (2015)	</item>
+        <item>	Me and Earl and the Dying Girl (2015)	</item>
+        <item>	Trumbo (2015)	</item>
+        <item>	The Walk (2015)	</item>
+        <item>	Beasts of No Nation (2015)	</item>
+        <item>	Anomalisa (2015)	</item>
+        <item>	Little Boy (2015)	</item>
+        <item>	The End of the Tour (2015)	</item>
+        <item>	Jack of the Red Hearts (2015)	</item>
+        <item>	Parched (2015)	</item>
+        <item>	Pali Road (2015)	</item>
+        <item>	Flytrap (2015)	</item>
+        <item>	Moor (2015)	</item>
+    </string-array>
+
+    <string-array name="drama_2014">
+        <item>	Interstellar (2014)	</item>
+        <item>	The Theory of Everything (2014)	</item>
+        <item>	Gone Girl (2014)	</item>
+        <item>	The Grand Budapest Hotel (2014)	</item>
+        <item>	Whiplash (2014)	</item>
+        <item>	Fury (2014)	</item>
+        <item>	The Imitation Game (2014)	</item>
+        <item>	American Sniper (2014)	</item>
+        <item>	Nightcrawler (2014)	</item>
+        <item>	The Fault in Our Stars (2014)	</item>
+        <item>	The Judge (2014)	</item>
+        <item>	Selma (2014)	</item>
+        <item>	St. Vincent (2014)	</item>
+        <item>	Still Alice (2014)	</item>
+        <item>	I Origins (2014)	</item>
+        <item>	Youre Not You (2014)	</item>
+        <item>	Love and Mercy (2014)	</item>
+        <item>	The Good Lie (2014)	</item>
+        <item>	Rudderless (2014)	</item>
+    </string-array>
+
+    <string-array name="drama_2013">
+        <item>	Prisoners (2013)	</item>
+        <item>	Her (2013)	</item>
+        <item>	Rush (2013)	</item>
+        <item>	Gravity (2013)	</item>
+        <item>	12 Years a Slave (2013)	</item>
+        <item>	American Hustle (2013)	</item>
+        <item>	Dallas Buyers Club (2013)	</item>
+        <item>	Lone Survivor (2013)	</item>
+        <item>	Begin Again (2013)	</item>
+        <item>	The Secret Life of Walter Mitty (2013)	</item>
+        <item>	Captain Phillips (2013)	</item>
+        <item>	Blue Jasmine (2013)	</item>
+        <item>	42 (2013)	</item>
+        <item>	Saving Mr. Banks (2013)	</item>
+        <item>	Inside Llewyn Davis (2013)	</item>
+        <item>	The Way Way Back (2013)	</item>
+        <item>	Fruitvale Station (2013)	</item>
+        <item>	Only Lovers Left Alive (2013)	</item>
+        <item>	Short Term 12 (2013)	</item>
+        <item>	Before Midnight (2013)	</item>
+        <item>	The Book Thief (2013)	</item>
+        <item>	Nebraska (2013)	</item>
+        <item>	Philomena (2013)	</item>
+        <item>	The Lunchbox (2013)	</item>
+        <item>	Clubhouse (2013)	</item>
+    </string-array>
+
+    <string-array name="drama_2012">
+        <item>	Moonrise Kingdom (2012)	</item>
+        <item>	Django Unchained (2012)	</item>
+        <item>	Les Misérables (2012)	</item>
+        <item>	Cloud Atlas (2012)	</item>
+        <item>	Lincoln (2012)	</item>
+        <item>	Zero Dark Thirty (2012)	</item>
+        <item>	The Perks of Being a Wallflower (2012)	</item>
+        <item>	The Place Beyond the Pines (2012)	</item>
+        <item>	Mud (2012)	</item>
+        <item>	Argo (2012)	</item>
+        <item>	Lawless (2012)	</item>
+        <item>	The Impossible (2012)	</item>
+        <item>	Flight (2012)	</item>
+        <item>	Life of Pi (2012)	</item>
+        <item>	End of Watch (2012)	</item>
+        <item>	Frances Ha (2012)	</item>
+        <item>	Stuck in Love (2012)	</item>
+        <item>	Beasts of the Southern Wild (2012)	</item>
+        <item>	Disconnect (2012)	</item>
+        <item>	What Maisie Knew (2012)	</item>
+        <item>	Unconditional (2012)	</item>
+        <item>	Any Day Now (2012)	</item>
+        <item>	Chittagong (2012)	</item>
+        <item>	The Third Half (2012)	</item>
+    </string-array>
+
+    <string-array name="drama_2011">
+        <item>	The Help (2011)	</item>
+        <item>	Drive (2011)	</item>
+        <item>	The Girl with the Dragon Tattoo (2011)	</item>
+        <item>	Warrior (2011)	</item>
+        <item>	Hugo (2011)	</item>
+        <item>	Moneyball (2011)	</item>
+        <item>	We Need to Talk About Kevin (2011)	</item>
+        <item>	50/50 (2011)	</item>
+        <item>	The Lincoln Lawyer (2011)	</item>
+        <item>	The Descendants (2011)	</item>
+        <item>	Jane Eyre (2011)	</item>
+        <item>	The Artist (2011)	</item>
+        <item>	Take Shelter (2011)	</item>
+        <item>	The Best Exotic Marigold Hotel (2011)	</item>
+        <item>	Detachment (2011)	</item>
+        <item>	Red Dog (2011)	</item>
+        <item>	The Music Never Stopped (2011)	</item>
+    </string-array>
+
+    <string-array name="drama_2010">
+        <item>	The Social Network (2010)	</item>
+        <item>	Black Swan (2010)	</item>
+        <item>	The Town (2010)	</item>
+        <item>	True Grit (2010)	</item>
+        <item>	Blue Valentine (2010)	</item>
+        <item>	The Kings Speech (2010)	</item>
+        <item>	The Way Back (2010)	</item>
+        <item>	The Fighter (2010)	</item>
+        <item>	127 Hours (2010)	</item>
+        <item>	Submarine (2010)	</item>
+        <item>	The Next Three Days (2010)	</item>
+        <item>	The Yellow Sea (2010)	</item>
+        <item>	Soldiers (2010)	</item>
+        <item>	The First Grader (2010)	</item>
+    </string-array>
+
+    <string-array name="drama_2009">
+        <item>	Inglourious Basterds (2009)	</item>
+        <item>	Watchmen (2009)	</item>
+        <item>	The Blind Side (2009)	</item>
+        <item>	Up in the Air (2009)	</item>
+        <item>	Mr. Nobody (2009)	</item>
+        <item>	500 Days of Summer (2009)	</item>
+        <item>	The Road (2009)	</item>
+        <item>	Law Abiding Citizen (2009)	</item>
+        <item>	Hachi - A Dogs Tale (2009)	</item>
+        <item>	The Young Victoria (2009)	</item>
+        <item>	Precious (2009)	</item>
+        <item>	A Single Man (2009)	</item>
+        <item>	An Education (2009)	</item>
+        <item>	My Sisters Keeper (2009)	</item>
+        <item>	Invictus (2009)	</item>
+        <item>	Crazy Heart (2009)	</item>
+        <item>	Sin Nombre (2009)	</item>
+        <item>	City Island (2009)	</item>
+    </string-array>
+
+    <string-array name="drama_2008">
+        <item>	Revolutionary Road (2008)	</item>
+        <item>	In Bruges (2008)	</item>
+        <item>	The Curious Case of Benjamin Button (2008)	</item>
+        <item>	The Hurt Locker (2008)	</item>
+        <item>	The Reader (2008)	</item>
+        <item>	Slumdog Millionaire (2008)	</item>
+        <item>	Gran Torino (2008)	</item>
+        <item>	Seven Pounds (2008)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	The Wrestler (2008)	</item>
+        <item>	Synecdoche, New York (2008)	</item>
+        <item>	The Bank Job (2008)	</item>
+        <item>	Felon (2008)	</item>
+        <item>	The Secret Life of Bees (2008)	</item>
+        <item>	The Express (2008)	</item>
+        <item>	Waltz with Bashir (2008)	</item>
+        <item>	Forever Strong (2008)	</item>
+        <item>	Goodbye Solo (2008)	</item>
+        <item>	Broken Angel (2008)	</item>
+    </string-array>
+
+    <string-array name="drama_2007">
+        <item>	No Country for Old Men (2007)	</item>
+        <item>	Atonement (2007)	</item>
+        <item>	There Will Be Blood (2007)	</item>
+        <item>	Into the Wild (2007)	</item>
+        <item>	Zodiac (2007)	</item>
+        <item>	American Gangster (2007)	</item>
+        <item>	Sweeney Todd - The Demon Barber of Fleet Street (2007)	</item>
+        <item>	Gone Baby Gone (2007)	</item>
+        <item>	The Man from Earth (2007)	</item>
+        <item>	Michael Clayton (2007)	</item>
+        <item>	August Rush (2007)	</item>
+        <item>	The Bucket List (2007)	</item>
+        <item>	Freedom Writers (2007)	</item>
+        <item>	Mr. Brooks (2007)	</item>
+        <item>	Reign Over Me (2007)	</item>
+        <item>	The Kite Runner (2007)	</item>
+        <item>	An American Crime (2007)	</item>
+        <item>	Control (2007)	</item>
+        <item>	The Visitor(2007)	</item>
+        <item>	Elvis and Anabelle (2007)	</item>
+    </string-array>
+
+    <string-array name="drama_2006">
+        <item>	The Prestige (2006)	</item>
+        <item>	Pans Labyrinth (2006)	</item>
+        <item>	Children of Men (2006)	</item>
+    </string-array>
+
+</resources>

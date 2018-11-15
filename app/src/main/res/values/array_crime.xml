@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="crime_All">
+        <item>	Game Night (2018)	</item>
+        <item>	Death Wish (2018)	</item>
+        <item>	Den of Thieves (2018)	</item>
+        <item>	All the Money in the World (2017)	</item>
+        <item>	Three Billboards Outside Ebbing, Missouri (2017)	</item>
+        <item>	Mollys Game (2017)	</item>
+        <item>	Murder on the Orient Express (2017)	</item>
+        <item>	Wind River (2017)	</item>
+        <item>	Baby Driver (2017)	</item>
+        <item>	Logan Lucky (2017)	</item>
+        <item>	John Wick - Chapter 2 (2017)	</item>
+        <item>	Going in Style (2017)	</item>
+        <item>	The Fate of the Furious (2017)	</item>
+        <item>	The Foreigner (2017)	</item>
+        <item>	American Made (2017)	</item>
+        <item>	Small Town Crime (2017)	</item>
+        <item>	The Book of Henry (2017)	</item>
+        <item>	Detroit (2017)	</item>
+        <item>	Good Time (2017)	</item>
+        <item>	Brawl in Cell Block 99 (2017)	</item>
+        <item>	Shot Caller (2017)	</item>
+        <item>	Loving Vincent (2017)	</item>
+        <item>	I Dont Feel at Home in This World Anymore. (2017)	</item>
+        <item>	Bomb City (2017)	</item>
+        <item>	The Girl on the Train (2016)	</item>
+        <item>	Patriots Day (2016)	</item>
+        <item>	Nocturnal Animals (2016)	</item>
+        <item>	Hell or High Water (2016)	</item>
+        <item>	The Accountant (2016)	</item>
+        <item>	The Nice Guys (2016)	</item>
+        <item>	Now You See Me 2 (2016)	</item>
+        <item>	Dont Breathe (2016)	</item>
+        <item>	War Dogs (2016)	</item>
+        <item>	Money Monster (2016)	</item>
+        <item>	Imperium (2016)	</item>
+        <item>	Neruda (2016)	</item>
+        <item>	Sicario (2015)	</item>
+        <item>	The Hateful Eight (2015)	</item>
+        <item>	Furious 7 (2015)	</item>
+        <item>	Spotlight (2015)	</item>
+        <item>	Legend (2015)	</item>
+        <item>	Focus (2015)	</item>
+        <item>	Chappie (2015)	</item>
+        <item>	Black Mass (2015)	</item>
+        <item>	Green Room (2015)	</item>
+        <item>	Child 44 (2015)	</item>
+        <item>	Dope (2015)	</item>
+        <item>	Run All Night (2015)	</item>
+        <item>	Tangerine (2015)	</item>
+        <item>	John Wick (2014)	</item>
+        <item>	Gone Girl (2014)	</item>
+        <item>	The Equalizer (2014)	</item>
+        <item>	Nightcrawler (2014)	</item>
+        <item>	Need for Speed (2014)	</item>
+        <item>	A Walk Among the Tombstones (2014)	</item>
+        <item>	The Drop (2014)	</item>
+        <item>	Big Eyes (2014)	</item>
+        <item>	22 Jump Street (2014)	</item>
+        <item>	The Judge (2014)	</item>
+        <item>	A Most Violent Year (2014)	</item>
+        <item>	Lets Be Cops (2014)	</item>
+        <item>	A Most Wanted Man (2014)	</item>
+        <item>	Stretch (2014)	</item>
+        <item>	Veronica Mars (2014)	</item>
+        <item>	Kill the Messenger (2014)	</item>
+        <item>	Cold in July (2014)	</item>
+        <item>	Faults (2014)	</item>
+        <item>	The Frame (2014)	</item>
+        <item>	Difret (2014)	</item>
+        <item>	Man from Reno (2014)	</item>
+        <item>	Sand Castles (2014)	</item>
+        <item>	The Wolf of Wall Street (2013)	</item>
+        <item>	Prisoners (2013)	</item>
+        <item>	Were the Millers (2013)	</item>
+        <item>	Kick-Ass 2 (2013)	</item>
+        <item>	American Hustle (2013)	</item>
+        <item>	Now You See Me (2013)	</item>
+        <item>	RED 2 (2013)	</item>
+        <item>	Fast and Furious 6 (2013)	</item>
+        <item>	Escape Plan (2013)	</item>
+        <item>	2 Guns (2013)	</item>
+        <item>	Side Effects (2013)	</item>
+        <item>	Gangster Squad (2013)	</item>
+        <item>	Homefront (2013)	</item>
+        <item>	Out of the Furnace (2013)	</item>
+        <item>	Joe (2013)	</item>
+        <item>	Blue Ruin (2013)	</item>
+        <item>	Dead Man Down (2013)	</item>
+        <item>	The Call (2013)	</item>
+        <item>	Blood Ties (2013)	</item>
+        <item>	Cheap Thrills (2013)	</item>
+        <item>	Looper (2012)	</item>
+        <item>	The Place Beyond the Pines (2012)	</item>
+        <item>	Lawless (2012)	</item>
+        <item>	21 Jump Street (2012)	</item>
+        <item>	Dredd (2012)	</item>
+        <item>	Jack Reacher (2012)	</item>
+        <item>	Contraband (2012)	</item>
+        <item>	End of Watch (2012)	</item>
+        <item>	Project X (2012)	</item>
+        <item>	Man on a Ledge (2012)	</item>
+        <item>	Savages (2012)	</item>
+        <item>	The Iceman (2012)	</item>
+        <item>	Get the Gringo (2012)	</item>
+        <item>	Premium Rush (2012)	</item>
+        <item>	Stand Up Guys (2012)	</item>
+        <item>	Eden (2012)	</item>
+        <item>	Gimme the Loot (2012)	</item>
+        <item>	Memory Lane (2012)	</item>
+        <item>	Sherlock Holmes - A Game of Shadows (2011)	</item>
+        <item>	Drive (2011)	</item>
+        <item>	The Girl with the Dragon Tattoo (2011)	</item>
+        <item>	Fast Five (2011)	</item>
+        <item>	Horrible Bosses (2011)	</item>
+        <item>	The Lincoln Lawyer (2011)	</item>
+        <item>	Killer Joe (2011)	</item>
+        <item>	The Mechanic (2011)	</item>
+        <item>	J. Edgar (2011)	</item>
+        <item>	Kill Bill - The Whole Bloody Affair (2011)	</item>
+        <item>	Kill the Irishman (2011)	</item>
+        <item>	Bernie (2011)	</item>
+        <item>	RED (2010)	</item>
+        <item>	The Town (2010)	</item>
+        <item>	The A-Team (2010)	</item>
+        <item>	The Other Guys (2010)	</item>
+        <item>	Machete (2010)	</item>
+        <item>	Due Date (2010)	</item>
+        <item>	The Next Three Days (2010)	</item>
+        <item>	Edge of Darkness (2010)	</item>
+        <item>	Faster (2010)	</item>
+        <item>	The Conspirator (2010)	</item>
+        <item>	The Perfect Host (2010)	</item>
+        <item>	Soldiers (2010)	</item>
+        <item>	Boy Wonder (2010)	</item>
+        <item>	Sherlock Holmes (2009)	</item>
+        <item>	Fast and Furious (2009)	</item>
+        <item>	Law Abiding Citizen (2009)	</item>
+        <item>	Public Enemies (2009)	</item>
+        <item>	State of Play (2009)	</item>
+        <item>	The Informant! (2009)	</item>
+        <item>	Notorious (2009)	</item>
+        <item>	Brooklyns Finest (2009)	</item>
+        <item>	Crossing Over (2009)	</item>
+        <item>	Sin Nombre (2009)	</item>
+        <item>	Leaves of Grass (2009)	</item>
+        <item>	Big Fan (2009)	</item>
+        <item>	The Dark Knight (2008)	</item>
+        <item>	In Bruges (2008)	</item>
+        <item>	Wanted (2008)	</item>
+        <item>	Burn After Reading (2008)	</item>
+        <item>	RocknRolla (2008)	</item>
+        <item>	21 (2008)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	The Bank Job (2008)	</item>
+        <item>	Appaloosa (2008)	</item>
+        <item>	Vantage Point (2008)	</item>
+        <item>	Felon (2008)	</item>
+        <item>	The Burning Plain (2008)	</item>
+        <item>	Pride and Glory (2008)	</item>
+        <item>	Frozen River (2008)	</item>
+        <item>	What Doesnt Kill You (2008)	</item>
+        <item>	No Country for Old Men (2007)	</item>
+        <item>	Shooter (2007)	</item>
+        <item>	American Gangster (2007)	</item>
+        <item>	Oceans Thirteen (2007)	</item>
+        <item>	Gone Baby Gone (2007)	</item>
+        <item>	3-10 to Yuma (2007)	</item>
+        <item>	Death Sentence (2007)	</item>
+        <item>	Mr. Brooks (2007)	</item>
+        <item>	Elite Squad (2007)	</item>
+        <item>	Shoot Em Up (2007)	</item>
+        <item>	Awake (2007)	</item>
+        <item>	The Brave One (2007)	</item>
+        <item>	Inside Man (2006)	</item>
+        <item>	Deja Vu (2006)	</item>
+        <item>	Smokin Aces (2006)	</item>
+        <item>	Lucky Number Slevin (2006)	</item>
+        <item>	16 Blocks (2006)	</item>
+        <item>	Lonely Hearts Killers (2006)	</item>
+        <item>	Unknown (2006)	</item>
+        <item>	The Dead Girl (2006)	</item>
+        <item>	Mr. and Mrs. Smith (2005)	</item>
+        <item>	Lord of War (2005)	</item>
+        <item>	Oceans Twelve (2004)	</item>
+        <item>	Man on Fire (2004)	</item>
+        <item>	The Punisher (2004)	</item>
+        <item>	The Italian Job (2003)	</item>
+        <item>	Bad Boys II (2003)	</item>
+        <item>	Panic Room (2002)	</item>
+        <item>	The Transporter (2002)	</item>
+        <item>	John Q (2002)	</item>
+        <item>	Oceans Eleven (2001)	</item>
+        <item>	Hannibal (2001)	</item>
+        <item>	Training Day (2001)	</item>
+        <item>	American Psycho (2000)	</item>
+    </string-array>
+
+    <string-array name="crime_2018">
+        <item>	Game Night (2018)	</item>
+        <item>	Death Wish (2018)	</item>
+        <item>	Den of Thieves (2018)	</item>
+    </string-array>
+
+    <string-array name="crime_2017">
+        <item>	All the Money in the World (2017)	</item>
+        <item>	Three Billboards Outside Ebbing, Missouri (2017)	</item>
+        <item>	Mollys Game (2017)	</item>
+        <item>	Murder on the Orient Express (2017)	</item>
+        <item>	Wind River (2017)	</item>
+        <item>	Baby Driver (2017)	</item>
+        <item>	Logan Lucky (2017)	</item>
+        <item>	John Wick - Chapter 2 (2017)	</item>
+        <item>	Going in Style (2017)	</item>
+        <item>	The Fate of the Furious (2017)	</item>
+        <item>	The Foreigner (2017)	</item>
+        <item>	American Made (2017)	</item>
+        <item>	Small Town Crime (2017)	</item>
+        <item>	The Book of Henry (2017)	</item>
+        <item>	Detroit (2017)	</item>
+        <item>	Good Time (2017)	</item>
+        <item>	Brawl in Cell Block 99 (2017)	</item>
+        <item>	Shot Caller (2017)	</item>
+        <item>	Loving Vincent (2017)	</item>
+        <item>	I Dont Feel at Home in This World Anymore. (2017)	</item>
+        <item>	Bomb City (2017)	</item>
+    </string-array>
+
+    <string-array name="crime_2016">
+        <item>	The Girl on the Train (2016)	</item>
+        <item>	Patriots Day (2016)	</item>
+        <item>	Nocturnal Animals (2016)	</item>
+        <item>	Hell or High Water (2016)	</item>
+        <item>	The Accountant (2016)	</item>
+        <item>	The Nice Guys (2016)	</item>
+        <item>	Now You See Me 2 (2016)	</item>
+        <item>	Dont Breathe (2016)	</item>
+        <item>	War Dogs (2016)	</item>
+        <item>	Money Monster (2016)	</item>
+        <item>	Imperium (2016)	</item>
+        <item>	Neruda (2016)	</item>
+    </string-array>
+
+    <string-array name="crime_2015">
+        <item>	Sicario (2015)	</item>
+        <item>	The Hateful Eight (2015)	</item>
+        <item>	Furious 7 (2015)	</item>
+        <item>	Spotlight (2015)	</item>
+        <item>	Legend (2015)	</item>
+        <item>	Focus (2015)	</item>
+        <item>	Chappie (2015)	</item>
+        <item>	Black Mass (2015)	</item>
+        <item>	Green Room (2015)	</item>
+        <item>	Child 44 (2015)	</item>
+        <item>	Dope (2015)	</item>
+        <item>	Run All Night (2015)	</item>
+        <item>	Tangerine (2015)	</item>
+    </string-array>
+
+    <string-array name="crime_2014">
+        <item>	John Wick (2014)	</item>
+        <item>	Gone Girl (2014)	</item>
+        <item>	The Equalizer (2014)	</item>
+        <item>	Nightcrawler (2014)	</item>
+        <item>	Need for Speed (2014)	</item>
+        <item>	A Walk Among the Tombstones (2014)	</item>
+        <item>	The Drop (2014)	</item>
+        <item>	Big Eyes (2014)	</item>
+        <item>	22 Jump Street (2014)	</item>
+        <item>	The Judge (2014)	</item>
+        <item>	A Most Violent Year (2014)	</item>
+        <item>	Lets Be Cops (2014)	</item>
+        <item>	A Most Wanted Man (2014)	</item>
+        <item>	Stretch (2014)	</item>
+        <item>	Veronica Mars (2014)	</item>
+        <item>	Kill the Messenger (2014)	</item>
+        <item>	Cold in July (2014)	</item>
+        <item>	Faults (2014)	</item>
+        <item>	The Frame (2014)	</item>
+        <item>	Difret (2014)	</item>
+        <item>	Man from Reno (2014)	</item>
+        <item>	Sand Castles (2014)	</item>
+    </string-array>
+
+    <string-array name="crime_2013">
+        <item>	The Wolf of Wall Street (2013)	</item>
+        <item>	Prisoners (2013)	</item>
+        <item>	Were the Millers (2013)	</item>
+        <item>	Kick-Ass 2 (2013)	</item>
+        <item>	American Hustle (2013)	</item>
+        <item>	Now You See Me (2013)	</item>
+        <item>	RED 2 (2013)	</item>
+        <item>	Fast and Furious 6 (2013)	</item>
+        <item>	Escape Plan (2013)	</item>
+        <item>	2 Guns (2013)	</item>
+        <item>	Side Effects (2013)	</item>
+        <item>	Gangster Squad (2013)	</item>
+        <item>	Homefront (2013)	</item>
+        <item>	Out of the Furnace (2013)	</item>
+        <item>	Joe (2013)	</item>
+        <item>	Blue Ruin (2013)	</item>
+        <item>	Dead Man Down (2013)	</item>
+        <item>	The Call (2013)	</item>
+        <item>	Blood Ties (2013)	</item>
+        <item>	Cheap Thrills (2013)	</item>
+    </string-array>
+
+    <string-array name="crime_2012">
+        <item>	Looper (2012)	</item>
+        <item>	The Place Beyond the Pines (2012)	</item>
+        <item>	Lawless (2012)	</item>
+        <item>	21 Jump Street (2012)	</item>
+        <item>	Dredd (2012)	</item>
+        <item>	Jack Reacher (2012)	</item>
+        <item>	Contraband (2012)	</item>
+        <item>	End of Watch (2012)	</item>
+        <item>	Project X (2012)	</item>
+        <item>	Man on a Ledge (2012)	</item>
+        <item>	Savages (2012)	</item>
+        <item>	The Iceman (2012)	</item>
+        <item>	Get the Gringo (2012)	</item>
+        <item>	Premium Rush (2012)	</item>
+        <item>	Stand Up Guys (2012)	</item>
+        <item>	Eden (2012)	</item>
+        <item>	Gimme the Loot (2012)	</item>
+        <item>	Memory Lane (2012)	</item>
+    </string-array>
+
+    <string-array name="crime_2011">
+        <item>	Sherlock Holmes - A Game of Shadows (2011)	</item>
+        <item>	Drive (2011)	</item>
+        <item>	The Girl with the Dragon Tattoo (2011)	</item>
+        <item>	Fast Five (2011)	</item>
+        <item>	Horrible Bosses (2011)	</item>
+        <item>	The Lincoln Lawyer (2011)	</item>
+        <item>	Killer Joe (2011)	</item>
+        <item>	The Mechanic (2011)	</item>
+        <item>	J. Edgar (2011)	</item>
+        <item>	Kill Bill - The Whole Bloody Affair (2011)	</item>
+        <item>	Kill the Irishman (2011)	</item>
+        <item>	Bernie (2011)	</item>
+    </string-array>
+
+    <string-array name="crime_2010">
+        <item>	RED (2010)	</item>
+        <item>	The Town (2010)	</item>
+        <item>	The A-Team (2010)	</item>
+        <item>	The Other Guys (2010)	</item>
+        <item>	Machete (2010)	</item>
+        <item>	Due Date (2010)	</item>
+        <item>	The Next Three Days (2010)	</item>
+        <item>	Edge of Darkness (2010)	</item>
+        <item>	Faster (2010)	</item>
+        <item>	The Conspirator (2010)	</item>
+        <item>	The Perfect Host (2010)	</item>
+        <item>	Soldiers (2010)	</item>
+        <item>	Boy Wonder (2010)	</item>
+    </string-array>
+
+    <string-array name="crime_2009">
+        <item>	Sherlock Holmes (2009)	</item>
+        <item>	Fast and Furious (2009)	</item>
+        <item>	Law Abiding Citizen (2009)	</item>
+        <item>	Public Enemies (2009)	</item>
+        <item>	State of Play (2009)	</item>
+        <item>	The Informant! (2009)	</item>
+        <item>	Notorious (2009)	</item>
+        <item>	Brooklyns Finest (2009)	</item>
+        <item>	Crossing Over (2009)	</item>
+        <item>	Sin Nombre (2009)	</item>
+        <item>	Leaves of Grass (2009)	</item>
+        <item>	Big Fan (2009)	</item>
+    </string-array>
+
+    <string-array name="crime_2008">
+        <item>	The Dark Knight (2008)	</item>
+        <item>	In Bruges (2008)	</item>
+        <item>	Wanted (2008)	</item>
+        <item>	Burn After Reading (2008)	</item>
+        <item>	RocknRolla (2008)	</item>
+        <item>	21 (2008)	</item>
+        <item>	Changeling (2008)	</item>
+        <item>	The Bank Job (2008)	</item>
+        <item>	Appaloosa (2008)	</item>
+        <item>	Vantage Point (2008)	</item>
+        <item>	Felon (2008)	</item>
+        <item>	The Burning Plain (2008)	</item>
+        <item>	Pride and Glory (2008)	</item>
+        <item>	Frozen River (2008)	</item>
+        <item>	What Doesnt Kill You (2008)	</item>
+    </string-array>
+
+    <string-array name="crime_2007">
+        <item>	No Country for Old Men (2007)	</item>
+        <item>	Shooter (2007)	</item>
+        <item>	American Gangster (2007)	</item>
+        <item>	Oceans Thirteen (2007)	</item>
+        <item>	Gone Baby Gone (2007)	</item>
+        <item>	3-10 to Yuma (2007)	</item>
+        <item>	Death Sentence (2007)	</item>
+        <item>	Mr. Brooks (2007)	</item>
+        <item>	Elite Squad (2007)	</item>
+        <item>	Shoot Em Up (2007)	</item>
+        <item>	Awake (2007)	</item>
+        <item>	The Brave One (2007)	</item>
+    </string-array>
+
+    <string-array name="crime_2006">
+        <item>	Inside Man (2006)	</item>
+        <item>	Deja Vu (2006)	</item>
+        <item>	Smokin Aces (2006)	</item>
+        <item>	Lucky Number Slevin (2006)	</item>
+        <item>	16 Blocks (2006)	</item>
+        <item>	Lonely Hearts Killers (2006)	</item>
+        <item>	Unknown (2006)	</item>
+        <item>	The Dead Girl (2006)	</item>
+    </string-array>
+
+    <string-array name="crime_2005">
+        <item>	Mr. and Mrs. Smith (2005)	</item>
+        <item>	Lord of War (2005)	</item>
+    </string-array>
+
+    <string-array name="crime_2004">
+        <item>	Oceans Twelve (2004)	</item>
+        <item>	Man on Fire (2004)	</item>
+        <item>	The Punisher (2004)	</item>
+    </string-array>
+
+    <string-array name="crime_2003">
+        <item>	The Italian Job (2003)	</item>
+        <item>	Bad Boys II (2003)	</item>
+    </string-array>
+
+    <string-array name="crime_2002">
+        <item>	Panic Room (2002)	</item>
+        <item>	The Transporter (2002)	</item>
+        <item>	John Q (2002)	</item>
+    </string-array>
+
+    <string-array name="crime_2001">
+        <item>	Oceans Eleven (2001)	</item>
+        <item>	Hannibal (2001)	</item>
+        <item>	Training Day (2001)	</item>
+    </string-array>
+
+    <string-array name="crime_2000">
+        <item>	American Psycho (2000)	</item>
+    </string-array>
+
+</resources>

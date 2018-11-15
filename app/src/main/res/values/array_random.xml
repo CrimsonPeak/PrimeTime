@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="randomGenre">
+        <item>action_All</item>
+        <item>actionComedy_All</item>
+        <item>adventure_All</item>
+        <!--<item>animation_All</item>-->
+        <item>biography_All</item>
+        <item>comedy_All</item>
+        <item>crime_All</item>
+        <item>drama_All</item>
+        <item>family_All</item>
+        <item>fantasy_All</item>
+        <!--<item>history_All</item>-->
+        <!--<item>horror_All</item>-->
+        <item>mysteryThriller_All</item>
+        <item>romanceComedy_All</item>
+    </string-array>
+
+</resources>

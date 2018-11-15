@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="animation_All">
+        <item>	Isle of Dogs (2018)	</item>
+        <item>	Pelle Kanin (2018)	</item>
+        <item>	Early Man (2018)	</item>
+        <item>	Coco (2017)	</item>
+        <item>	Ferdinand (2017)	</item>
+        <item>	Paddington 2 (2017)	</item>
+        <item>	Despicable Me 3 (2017)	</item>
+        <item>	Cars 3 (2017)	</item>
+        <item>	The Boss Baby (2017)	</item>
+        <item>	The LEGO Batman Movie (2017)	</item>
+        <item>	Captain Underpants - The First Epic Movie (2017)	</item>
+        <item>	The Lego Ninjago Movie (2017)	</item>
+        <item>	My Little Pony - The Movie (2017)	</item>
+        <item>	Bigfoot Junior (2017)	</item>
+        <item>	Zootopia (2016)	</item>
+        <item>	Moana (2016)	</item>
+        <item>	Sing (2016)	</item>
+        <item>	Trolls (2016)	</item>
+        <item>	Finding Dory (2016)	</item>
+        <item>	Sausage Party (2016)	</item>
+        <item>	The Angry Birds Movie (2016)	</item>
+        <item>	A Monster Calls (2016)	</item>
+        <item>	Kubo and the Two Strings (2016)	</item>
+        <item>	Kung Fu Panda 3 (2016)	</item>
+        <item>	Storks (2016)	</item>
+        <item>	Inside Out (2015)	</item>
+        <item>	Hotel Transylvania 2 (2015)	</item>
+        <item>	The Good Dinosaur (2015)	</item>
+        <item>	Minions (2015)	</item>
+        <item>	Anomalisa (2015)	</item>
+        <item>	The SpongeBob Movie - Sponge Out of Water (2015)	</item>
+        <item>	The Peanuts Movie (2015)	</item>
+        <item>	Home (2015)	</item>
+        <item>	Big Hero 6 (2014)	</item>
+        <item>	Paddington (2014)	</item>
+        <item>	The Lego Movie (2014)	</item>
+        <item>	How to Train Your Dragon 2 (2014)	</item>
+        <item>	The Book of Life (2014)	</item>
+        <item>	Rio 2 (2014)	</item>
+        <item>	Penguins of Madagascar (2014)	</item>
+        <item>	Mr. Peabody and Sherman (2014)	</item>
+        <item>	The Boxtrolls (2014)	</item>
+        <item>	Planes - Fire and Rescue (2014)	</item>
+        <item>	Stand by Me Doraemon (2014)	</item>
+        <item>	Frozen (2013)	</item>
+        <item>	Despicable Me 2 (2013)	</item>
+        <item>	Monsters University (2013)	</item>
+        <item>	The Croods (2013)	</item>
+        <item>	Epic (2013)	</item>
+        <item>	Cloudy with a Chance of Meatballs 2 (2013)	</item>
+        <item>	Turbo (2013)	</item>
+        <item>	Extraordinary Tales (2013)	</item>
+        <item>	Wreck-It Ralph (2012)	</item>
+        <item>	Brave (2012)	</item>
+        <item>	Hotel Transylvania (2012)	</item>
+        <item>	Rise of the Guardians (2012)	</item>
+        <item>	Madagascar 3 - Europes Most Wanted (2012)	</item>
+        <item>	The Lorax (2012)	</item>
+        <item>	Ice Age - Continental Drift (2012)	</item>
+        <item>	Frankenweenie (2012)	</item>
+        <item>	ParaNorman (2012)	</item>
+        <item>	Secret of the Wings (2012)	</item>
+        <item>	Its Such a Beautiful Day (2012)	</item>
+        <item>	Gnomeo and Juliet (2011)	</item>
+        <item>	The Adventures of Tintin (2011)	</item>
+        <item>	Cars 2 (2011)	</item>
+        <item>	Rio (2011)	</item>
+        <item>	Rango (2011)	</item>
+        <item>	Kung Fu Panda 2 (2011)	</item>
+        <item>	Puss in Boots (2011)	</item>
+        <item>	Winnie the Pooh (2011)	</item>
+        <item>	Arthur Christmas (2011)	</item>
+        <item>	Tangled (2010)	</item>
+        <item>	Toy Story 3 (2010)	</item>
+        <item>	How to Train Your Dragon (2010)	</item>
+        <item>	Despicable Me (2010)	</item>
+        <item>	Shrek Forever After (2010)	</item>
+        <item>	Megamind (2010)	</item>
+        <item>	Legend of the Guardians - The Owls of GaHoole (2010)	</item>
+        <item>	The Drawn Together Movie! (2010)	</item>
+        <item>	Fantastic Mr. Fox (2009)	</item>
+        <item>	Up (2009)	</item>
+        <item>	The Princess and the Frog (2009)	</item>
+        <item>	Cloudy with a Chance of Meatballs (2009)	</item>
+        <item>	Monsters vs. Aliens (2009)	</item>
+        <item>	Astro Boy (2009)	</item>
+        <item>	Ice Age - Dawn of the Dinosaurs (2009)	</item>
+        <item>	Planet 51 (2009)	</item>
+        <item>	A Christmas Carol (2009)	</item>
+        <item>	WALL·E (2008)	</item>
+        <item>	Kung Fu Panda (2008)	</item>
+        <item>	Bolt (2008)	</item>
+        <item>	Madagascar - Escape 2 Africa (2008)	</item>
+        <item>	Horton Hears a Who! (2008)	</item>
+        <item>	The Tale of Despereaux (2008)	</item>
+        <item>	Ratatouille (2007)	</item>
+        <item>	Meet the Robinsons (2007)	</item>
+        <item>	Shrek the Third (2007)	</item>
+        <item>	Bee Movie (2007)	</item>
+        <item>	The Simpsons Movie (2007)	</item>
+        <item>	Surfs Up (2007)	</item>
+        <item>	TMNT (2007)	</item>
+        <item>	Cars (2006)	</item>
+        <item>	Over the Hedge (2006)	</item>
+        <item>	Happy Feet (2006)	</item>
+        <item>	Monster House (2006)	</item>
+        <item>	Flushed Away (2006)	</item>
+        <item>	Ice Age - The Meltdown (2006)	</item>
+        <item>	Open Season (2006)	</item>
+        <item>	Curious George (2006)	</item>
+        <item>	Bambi II (2006)	</item>
+        <item>	Madagascar (2005)	</item>
+        <item>	Corpse Bride (2005)	</item>
+        <item>	Robots (2005)	</item>
+        <item>	The Curse of the Were-Rabbit (2005)	</item>
+        <item>	Hoodwinked! (2005)	</item>
+        <item>	The Incredibles (2004)	</item>
+        <item>	Shrek 2 (2004)	</item>
+        <item>	The Polar Express (2004)	</item>
+        <item>	The SpongeBob SquarePants Movie (2004)	</item>
+        <item>	Finding Nemo (2003)	</item>
+        <item>	Björnbröder (2003)	</item>
+        <item>	Sinbad - Legend of the Seven Seas (2003)	</item>
+        <item>	Ice Age (2002)	</item>
+        <item>	Lilo and Stitch (2002)	</item>
+        <item>	Treasure Planet (2002)	</item>
+        <item>	Spirit - Stallion of the Cimarron (2002)	</item>
+        <item>	Muhammad - The Last Prophet (2002)	</item>
+        <item>	Monsters, Inc. (2001)	</item>
+        <item>	Shrek (2001)	</item>
+        <item>	Jimmy Neutron - Boy Genius (2001)	</item>
+        <item>	Recess - Schools Out (2001)	</item>
+    </string-array>
+
+    <string-array name="animation_2018">
+        <item>	Isle of Dogs (2018)	</item>
+        <item>	Pelle Kanin (2018)	</item>
+        <item>	Early Man (2018)	</item>
+    </string-array>
+
+    <string-array name="animation_2017">
+        <item>	Coco (2017)	</item>
+        <item>	Ferdinand (2017)	</item>
+        <item>	Paddington 2 (2017)	</item>
+        <item>	Despicable Me 3 (2017)	</item>
+        <item>	Cars 3 (2017)	</item>
+        <item>	The Boss Baby (2017)	</item>
+        <item>	The LEGO Batman Movie (2017)	</item>
+        <item>	Captain Underpants - The First Epic Movie (2017)	</item>
+        <item>	The Lego Ninjago Movie (2017)	</item>
+        <item>	My Little Pony - The Movie (2017)	</item>
+        <item>	Bigfoot Junior (2017)	</item>
+    </string-array>
+
+    <string-array name="animation_2016">
+        <item>	Zootopia (2016)	</item>
+        <item>	Moana (2016)	</item>
+        <item>	Sing (2016)	</item>
+        <item>	Trolls (2016)	</item>
+        <item>	Finding Dory (2016)	</item>
+        <item>	Sausage Party (2016)	</item>
+        <item>	The Angry Birds Movie (2016)	</item>
+        <item>	A Monster Calls (2016)	</item>
+        <item>	Kubo and the Two Strings (2016)	</item>
+        <item>	Kung Fu Panda 3 (2016)	</item>
+        <item>	Storks (2016)	</item>
+    </string-array>
+
+    <string-array name="animation_2015">
+        <item>	Inside Out (2015)	</item>
+        <item>	Hotel Transylvania 2 (2015)	</item>
+        <item>	The Good Dinosaur (2015)	</item>
+        <item>	Minions (2015)	</item>
+        <item>	Anomalisa (2015)	</item>
+        <item>	The SpongeBob Movie - Sponge Out of Water (2015)	</item>
+        <item>	The Peanuts Movie (2015)	</item>
+        <item>	Home (2015)	</item>
+    </string-array>
+
+    <string-array name="animation_2014">
+        <item>	Big Hero 6 (2014)	</item>
+        <item>	Paddington (2014)	</item>
+        <item>	The Lego Movie (2014)	</item>
+        <item>	How to Train Your Dragon 2 (2014)	</item>
+        <item>	The Book of Life (2014)	</item>
+        <item>	Rio 2 (2014)	</item>
+        <item>	Penguins of Madagascar (2014)	</item>
+        <item>	Mr. Peabody and Sherman (2014)	</item>
+        <item>	The Boxtrolls (2014)	</item>
+        <item>	Planes - Fire and Rescue (2014)	</item>
+        <item>	Stand by Me Doraemon (2014)	</item>
+    </string-array>
+
+    <string-array name="animation_2013">
+        <item>	Frozen (2013)	</item>
+        <item>	Despicable Me 2 (2013)	</item>
+        <item>	Monsters University (2013)	</item>
+        <item>	The Croods (2013)	</item>
+        <item>	Epic (2013)	</item>
+        <item>	Cloudy with a Chance of Meatballs 2 (2013)	</item>
+        <item>	Turbo (2013)	</item>
+        <item>	Extraordinary Tales (2013)	</item>
+    </string-array>
+
+    <string-array name="animation_2012">
+        <item>	Wreck-It Ralph (2012)	</item>
+        <item>	Brave (2012)	</item>
+        <item>	Hotel Transylvania (2012)	</item>
+        <item>	Rise of the Guardians (2012)	</item>
+        <item>	Madagascar 3 - Europes Most Wanted (2012)	</item>
+        <item>	The Lorax (2012)	</item>
+        <item>	Ice Age - Continental Drift (2012)	</item>
+        <item>	Frankenweenie (2012)	</item>
+        <item>	ParaNorman (2012)	</item>
+        <item>	Secret of the Wings (2012)	</item>
+        <item>	Its Such a Beautiful Day (2012)	</item>
+    </string-array>
+
+    <string-array name="animation_2011">
+        <item>	Gnomeo and Juliet (2011)	</item>
+        <item>	The Adventures of Tintin (2011)	</item>
+        <item>	Cars 2 (2011)	</item>
+        <item>	Rio (2011)	</item>
+        <item>	Rango (2011)	</item>
+        <item>	Kung Fu Panda 2 (2011)	</item>
+        <item>	Puss in Boots (2011)	</item>
+        <item>	Winnie the Pooh (2011)	</item>
+        <item>	Arthur Christmas (2011)	</item>
+    </string-array>
+
+    <string-array name="animation_2010">
+        <item>	Tangled (2010)	</item>
+        <item>	Toy Story 3 (2010)	</item>
+        <item>	How to Train Your Dragon (2010)	</item>
+        <item>	Despicable Me (2010)	</item>
+        <item>	Shrek Forever After (2010)	</item>
+        <item>	Megamind (2010)	</item>
+        <item>	Legend of the Guardians - The Owls of GaHoole (2010)	</item>
+        <item>	The Drawn Together Movie! (2010)	</item>
+    </string-array>
+
+    <string-array name="animation_2009">
+        <item>	Fantastic Mr. Fox (2009)	</item>
+        <item>	Up (2009)	</item>
+        <item>	The Princess and the Frog (2009)	</item>
+        <item>	Cloudy with a Chance of Meatballs (2009)	</item>
+        <item>	Monsters vs. Aliens (2009)	</item>
+        <item>	Astro Boy (2009)	</item>
+        <item>	Ice Age - Dawn of the Dinosaurs (2009)	</item>
+        <item>	Planet 51 (2009)	</item>
+        <item>	A Christmas Carol (2009)	</item>
+    </string-array>
+
+    <string-array name="animation_2008">
+        <item>	WALL·E (2008)	</item>
+        <item>	Kung Fu Panda (2008)	</item>
+        <item>	Bolt (2008)	</item>
+        <item>	Madagascar - Escape 2 Africa (2008)	</item>
+        <item>	Horton Hears a Who! (2008)	</item>
+        <item>	The Tale of Despereaux (2008)	</item>
+    </string-array>
+
+    <string-array name="animation_2007">
+        <item>	Ratatouille (2007)	</item>
+        <item>	Meet the Robinsons (2007)	</item>
+        <item>	Shrek the Third (2007)	</item>
+        <item>	Bee Movie (2007)	</item>
+        <item>	The Simpsons Movie (2007)	</item>
+        <item>	Surfs Up (2007)	</item>
+        <item>	TMNT (2007)	</item>
+    </string-array>
+
+    <string-array name="animation_2006">
+        <item>	Cars (2006)	</item>
+        <item>	Over the Hedge (2006)	</item>
+        <item>	Happy Feet (2006)	</item>
+        <item>	Monster House (2006)	</item>
+        <item>	Flushed Away (2006)	</item>
+        <item>	Ice Age - The Meltdown (2006)	</item>
+        <item>	Open Season (2006)	</item>
+        <item>	Curious George (2006)	</item>
+        <item>	Bambi II (2006)	</item>
+    </string-array>
+
+    <string-array name="animation_2005">
+        <item>	Madagascar (2005)	</item>
+        <item>	Corpse Bride (2005)	</item>
+        <item>	Robots (2005)	</item>
+        <item>	The Curse of the Were-Rabbit (2005)	</item>
+    </string-array>
+
+    <string-array name="animation_2004">
+        <item>	The Incredibles (2004)	</item>
+        <item>	Shrek 2 (2004)	</item>
+        <item>	The Polar Express (2004)	</item>
+        <item>	The SpongeBob SquarePants Movie (2004)	</item>
+    </string-array>
+
+    <string-array name="animation_2003">
+        <item>	Finding Nemo (2003)	</item>
+        <item>	Björnbröder (2003)	</item>
+        <item>	Sinbad - Legend of the Seven Seas (2003)	</item>
+    </string-array>
+
+    <string-array name="animation_2002">
+        <item>	Ice Age (2002)	</item>
+        <item>	Lilo and Stitch (2002)	</item>
+        <item>	Treasure Planet (2002)	</item>
+        <item>	Spirit - Stallion of the Cimarron (2002)	</item>
+        <item>	Muhammad - The Last Prophet (2002)	</item>
+    </string-array>
+
+    <string-array name="animation_2001">
+        <item>	Monsters, Inc. (2001)	</item>
+        <item>	Shrek (2001)	</item>
+        <item>	Jimmy Neutron - Boy Genius (2001)	</item>
+        <item>	Recess - Schools Out (2001)	</item>
+    </string-array>
+
+</resources>

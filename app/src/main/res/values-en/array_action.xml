@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="action_All">
+        <item>Ready Player One (2018)</item>
+        <item>Black Panther (2018)</item>
+        <item>Tomb Raider (2018)</item>
+        <item>Death Wish (2018)</item>
+        <item>Maze Runner - The Death Cure (2018)</item>
+        <item>Den of Thieves (2018)</item>
+        <item>12 Strong (2018)</item>
+        <item>Jumanji - Welcome to the Jungle (2017)</item>
+        <item>Thor - Ragnarok (2017)</item>
+        <item>Star Wars - The Last Jedi (2017)</item>
+        <item>Justice League (2017)</item>
+        <item>Wonder Woman (2017)</item>
+        <item>Atomic Blonde (2017)</item>
+        <item>Spider-Man - Homecoming (2017)</item>
+        <item>Guardians of the Galaxy Vol. 2 (2017)</item>
+        <item>Dunkirk (2017)</item>
+        <item>Baby Driver (2017)</item>
+        <item>Kingsman - The Golden Circle (2017)</item>
+        <item>Valerian and the City of a Thousand Planets (2017)</item>
+        <item>Logan (2017)</item>
+        <item>Pirates of the Caribbean - Dead Men Tell No Tales (2017)</item>
+        <item>John Wick - Chapter 2 (2017)</item>
+        <item>Kong - Skull Island (2017)</item>
+        <item>King Arthur - Legend of the Sword (2017)</item>
+        <item>The Hitmans Bodyguard (2017)</item>
+        <item>The Fate of the Furious (2017)</item>
+        <item>The Foreigner (2017)</item>
+        <item>American Made (2017)</item>
+        <item>War for the Planet of the Apes (2017)</item>
+        <item>Okja (2017)</item>
+        <item>The LEGO Batman Movie (2017)</item>
+        <item>Descendants 2 (2017 TV Movie)</item>
+        <item>Boone - The Bounty Hunter (2017)</item>
+        <item>Bomb City (2017)</item>
+        <item>All About the Money (2017)</item>
+        <item>Bad Kids of Crestview Academy (2017)</item>
+        <item>Deadpool (2016)</item>
+        <item>Captain America - Civil War (2016)</item>
+        <item>Doctor Strange (2016)</item>
+        <item>Batman v Superman - Dawn of Justice (2016)</item>
+        <item>X-Men - Apocalypse (2016)</item>
+        <item>Rogue One - A Star Wars Story (2016)</item>
+        <item>Star Trek - Beyond (2016)</item>
+        <item>Warcraft - The Beginning (2016)</item>
+        <item>The Magnificent Seven (2016)</item>
+        <item>13 Hours (2016)</item>
+        <item>Jason Bourne (2016)</item>
+        <item>The Accountant (2016)</item>
+        <item>The Nice Guys (2016)</item>
+        <item>Now You See Me 2 (2016)</item>
+        <item>Nerve (2016)</item>
+        <item>Allied (2016)</item>
+        <item>Deepwater Horizon (2016)</item>
+        <item>The Finest Hours (2016)</item>
+        <item>Kubo and the Two Strings (2016)</item>
+        <item>Petes Dragon (2016)</item>
+        <item>Free State of Jones (2016)</item>
+        <item>Kingsglaive - Final Fantasy XV (2016)</item>
+        <item>Hands of Stone (2016)</item>
+        <item>Avengers - Age of Ultron (2015)</item>
+        <item>Everest (2015)</item>
+        <item>Sicario (2015)</item>
+        <item>Star Wars - The Force Awakens (2015)</item>
+        <item>Mad Max - Fury Road (2015)</item>
+        <item>The Man from U.N.C.L.E. (2015)</item>
+        <item>Furious 7 (2015)</item>
+        <item>Spectre (2015)</item>
+        <item>Jurassic World (2015)</item>
+        <item>Ant-Man (2015)</item>
+        <item>In the Heart of the Sea (2015)</item>
+        <item>Terminator Genisys (2015)</item>
+        <item>Mission Impossible - Rogue Nation (2015)</item>
+        <item>Spy (2015)</item>
+        <item>The Hunger Games - Mockingjay - Part 2 (2015)</item>
+        <item>Tomorrowland (2015)</item>
+        <item>Chappie (2015)</item>
+        <item>No Escape (2015)</item>
+        <item>Dope (2015)</item>
+        <item>Run All Night (2015)</item>
+        <item>Hardcore (2015)</item>
+        <item>Self/less (2015)</item>
+        <item>Turbo Kid (2015)</item>
+        <item>Guardians of the Galaxy (2014)</item>
+        <item>John Wick (2014)</item>
+        <item>Captain America - The Winter Soldier (2014)</item>
+        <item>Kingsman - The Secret Service (2014)</item>
+        <item>The Equalizer (2014)</item>
+        <item>The Maze Runner (2014)</item>
+        <item>Fury (2014)</item>
+        <item>X-Men - Days of Future Past (2014)</item>
+        <item>Edge of Tomorrow (2014)</item>
+        <item>American Sniper (2014)</item>
+        <item>The Amazing Spider-Man 2 (2014)</item>
+        <item>Need for Speed (2014)</item>
+        <item>The Hunger Games - Mockingjay - Part 1 (2014)</item>
+        <item>Dawn of the Planet of the Apes (2014)</item>
+        <item>22 Jump Street (2014)</item>
+        <item>Non-Stop (2014)</item>
+        <item>The Purge - Anarchy (2014)</item>
+        <item>The Raid 2 (2014)</item>
+        <item>Pacific Rim (2013)</item>
+        <item>Thor - The Dark World (2013)</item>
+        <item>Iron Man 3 (2013)</item>
+        <item>Oblivion (2013)</item>
+        <item>Man of Steel (2013)</item>
+        <item>Rush (2013)</item>
+        <item>The Hunger Games - Catching Fire (2013)</item>
+        <item>Kick-Ass 2 (2013)</item>
+        <item>World War Z (2013)</item>
+        <item>RED 2 (2013)</item>
+        <item>Fast and Furious 6 (2013)</item>
+        <item>Star Trek - Into Darkness (2013)</item>
+        <item>Lone Survivor (2013)</item>
+        <item>Elysium (2013)</item>
+        <item>The Worlds End (2013)</item>
+        <item>Escape Plan (2013)</item>
+        <item>The Lone Ranger (2013)</item>
+        <item>The Wolverine (2013)</item>
+        <item>The Heat (2013)</item>
+        <item>2 Guns (2013)</item>
+        <item>Olympus Has Fallen (2013)</item>
+        <item>Gangster Squad (2013)</item>
+        <item>Enders Game (2013)</item>
+        <item>Homefront (2013)</item>
+        <item>All Is Lost (2013)</item>
+        <item>Snitch (2013)</item>
+        <item>Dead Man Down (2013)</item>
+        <item>The Avengers (2012)</item>
+        <item>The Dark Knight Rises (2012)</item>
+        <item>Cloud Atlas (2012)</item>
+        <item>Skyfall (2012)</item>
+        <item>Looper (2012)</item>
+        <item>The Amazing Spider-Man (2012)</item>
+        <item>21 Jump Street (2012)</item>
+        <item>Men in Black 3 (2012)</item>
+        <item>John Carter (2012)</item>
+        <item>Dredd (2012)</item>
+        <item>Jack Reacher (2012)</item>
+        <item>Contraband (2012)</item>
+        <item>The Expendables 2 (2012)</item>
+        <item>End of Watch (2012)</item>
+        <item>Project X (2012)</item>
+        <item>Man on a Ledge (2012)</item>
+        <item>Safe House (2012)</item>
+        <item>The Bourne Legacy (2012)</item>
+        <item>Act of Valor (2012)</item>
+        <item>Safe (2012)</item>
+        <item>Get the Gringo (2012)</item>
+        <item>Premium Rush (2012)</item>
+        <item>Stand Up Guys (2012)</item>
+        <item>Chittagong (2012)</item>
+        <item>Captain America - The First Avenger (2011)</item>
+        <item>Thor (2011)</item>
+        <item>Real Steel (2011)</item>
+        <item>Sherlock Holmes - A Game of Shadows (2011)</item>
+        <item>X-Men - First Class (2011)</item>
+        <item>Pirates of the Caribbean - On Stranger Tides (2011)</item>
+        <item>In Time (2011)</item>
+        <item>Mission Impossible - Ghost Protocol (2011)</item>
+        <item>The Adventures of Tintin (2011)</item>
+        <item>Fast Five (2011)</item>
+        <item>Hanna (2011)</item>
+        <item>Rise of the Planet of the Apes (2011)</item>
+        <item>Unknown (2011)</item>
+        <item>The Raid - Redemption (2011)</item>
+        <item>The Grey (2011)</item>
+        <item>The Mechanic (2011)</item>
+        <item>Kill Bill - The Whole Bloody Affair (2011)</item>
+        <item>Machine Gun Preacher (2011)</item>
+        <item>Inception (2010)</item>
+        <item>Scott Pilgrim vs. the World (2010)</item>
+        <item>Iron Man 2 (2010)</item>
+        <item>TRON - Legacy (2010)</item>
+        <item>RED (2010)</item>
+        <item>Kick-Ass (2010)</item>
+        <item>The A-Team (2010)</item>
+        <item>The Other Guys (2010)</item>
+        <item>Prince of Persia - The Sands of Time (2010)</item>
+        <item>The Expendables (2010)</item>
+        <item>Robin Hood (2010)</item>
+        <item>The Book of Eli (2010)</item>
+        <item>Machete (2010)</item>
+        <item>Due Date (2010)</item>
+        <item>Green Zone (2010)</item>
+        <item>The Next Three Days (2010)</item>
+        <item>Unstoppable (2010)</item>
+        <item>Faster (2010)</item>
+        <item>The Yellow Sea (2010)</item>
+        <item>Soldiers (2010)</item>
+        <item>Boy Wonder (2010)</item>
+        <item>Avatar (2009)</item>
+        <item>Watchmen (2009)</item>
+        <item>Star Trek (2009)</item>
+        <item>Sherlock Holmes (2009)</item>
+        <item>X-Men Origins - Wolverine (2009)</item>
+        <item>Fast and Furious (2009)</item>
+        <item>Terminator Salvation (2009)</item>
+        <item>Underworld - Rise of the Lycans (2009)</item>
+        <item>Pandorum (2009)</item>
+        <item>State of Play (2009)</item>
+        <item>Daybreakers (2009)</item>
+        <item>Blood and Bone (2009)</item>
+        <item>Black Dynamite (2009)</item>
+        <item>The International (2009)</item>
+        <item>Ink (2009)</item>
+        <item>The Dark Knight (2008)</item>
+        <item>Iron Man (2008)</item>
+        <item>The Incredible Hulk (2008)</item>
+        <item>Tropic Thunder (2008)</item>
+        <item>Cloverfield (2008)</item>
+        <item>Wanted (2008)</item>
+        <item>Hellboy II - The Golden Army (2008)</item>
+        <item>Quantum of Solace (2008)</item>
+        <item>Pineapple Express (2008)</item>
+        <item>The Chronicles of Narnia - Prince Caspian (2008)</item>
+        <item>Never Back Down (2008)</item>
+        <item>Defiance (2008)</item>
+        <item>RocknRolla (2008)</item>
+        <item>Rambo (2008)</item>
+        <item>Body of Lies (2008)</item>
+        <item>Get Smart (2008)</item>
+        <item>Street Kings (2008)</item>
+        <item>Eagle Eye (2008)</item>
+        <item>The Forbidden Kingdom (2008)</item>
+        <item>Vantage Point (2008)</item>
+        <item>Traitor (2008)</item>
+        <item>The Gamers - Dorkness Rising (2008)</item>
+        <item>Sky Kids (2008)</item>
+        <item>Transformers (2007)</item>
+        <item>Shooter (2007)</item>
+        <item>Death Proof (2007)</item>
+        <item>Pirates of the Caribbean - At Worlds End (2007)</item>
+        <item>Live Free or Die Hard (2007)</item>
+        <item>Planet Terror (2007)</item>
+        <item>Grindhouse (2007)</item>
+        <item>The Bourne Ultimatum (2007)</item>
+        <item>National Treasure - Book of Secrets (2007)</item>
+        <item>Death Sentence (2007)</item>
+        <item>The Kingdom (2007)</item>
+        <item>Elite Squad (2007)</item>
+        <item>Shoot Em Up (2007)</item>
+        <item>Son of Rambow (2007)</item>
+        <item>Battle in Seattle (2007)</item>
+        <item>Battle for Terra (2007)</item>
+        <item>300 (2006)</item>
+        <item>Casino Royale (2006)</item>
+        <item>Apocalypto (2006)</item>
+        <item>Pirates of the Caribbean - Dead Mans Chest (2006)</item>
+        <item>X-Men - The Last Stand (2006)</item>
+        <item>Deja Vu (2006)</item>
+        <item>Mission - Impossible III (2006)</item>
+        <item>Smokin Aces (2006)</item>
+        <item>Crank (2006)</item>
+        <item>Underworld - Evolution (2006)</item>
+        <item>The Guardian (2006)</item>
+        <item>Running Scared (2006)</item>
+        <item>16 Blocks (2006)</item>
+        <item>Seraphim Falls (2006)</item>
+        <item>Batman Begins (2005)</item>
+        <item>V for Vendetta (2005)</item>
+        <item>King Kong (2005)</item>
+        <item>Mr. and Mrs. Smith (2005)</item>
+        <item>Kingdom of Heaven (2005)</item>
+        <item>Serenity (2005)</item>
+        <item>Hostage (2005)</item>
+        <item>The Island (2005)</item>
+        <item>Four Brothers (2005)</item>
+        <item>Brick (2005)</item>
+        <item>Harsh Times (2005)</item>
+        <item>Chaos (2005)</item>
+        <item>The Great Raid (2005)</item>
+        <item>Unleashed (2005)</item>
+        <item>The Protector (2005)</item>
+        <item>Hellboy (2004)</item>
+        <item>Kill Bill - Vol. 2 (2004)</item>
+        <item>National Treasure (2004)</item>
+        <item>Dawn of the Dead (2004)</item>
+        <item>Spider-Man 2 (2004)</item>
+        <item>Man on Fire (2004)</item>
+        <item>I, Robot (2004)</item>
+        <item>The Punisher (2004)</item>
+        <item>The Bourne Supremacy (2004)</item>
+        <item>The Chronicles of Riddick (2004)</item>
+        <item>Friday Night Lights (2004)</item>
+        <item>Cellular (2004)</item>
+        <item>Kill Bill - Vol. 1 (2003)</item>
+        <item>The Matrix Reloaded (2003)</item>
+        <item>X-Men 2 (2003)</item>
+        <item>The Last Samurai (2003)</item>
+        <item>Underworld (2003)</item>
+        <item>The Italian Job (2003)</item>
+        <item>Tears of the Sun (2003)</item>
+        <item>Bad Boys II (2003)</item>
+        <item>The Rundown (2003)</item>
+        <item>Matrix Revolutions (2003)</item>
+        <item>The Recruit (2003)</item>
+        <item>Minority Report (2002)</item>
+        <item>The Bourne Identity (2002)</item>
+        <item>Blade II (2002)</item>
+        <item>Equilibrium (2002)</item>
+        <item>The Transporter (2002)</item>
+        <item>The Fast and the Furious (2001)</item>
+        <item>Rush Hour 2 (2001)</item>
+        <item>Gladiator (2000)</item>
+    </string-array>
+
+    <string-array name="action_2018">
+        <item>Ready Player One (2018)</item>
+        <item>Black Panther (2018)</item>
+        <item>Tomb Raider (2018)</item>
+        <item>Death Wish (2018)</item>
+        <item>Maze Runner - The Death Cure (2018)</item>
+        <item>Den of Thieves (2018)</item>
+        <item>12 Strong (2018)</item>
+    </string-array>
+
+    <string-array name="action_2017">
+        <item>Jumanji - Welcome to the Jungle (2017)</item>
+        <item>Thor - Ragnarok (2017)</item>
+        <item>Star Wars - The Last Jedi (2017)</item>
+        <item>Justice League (2017)</item>
+        <item>Wonder Woman (2017)</item>
+        <item>Atomic Blonde (2017)</item>
+        <item>Spider-Man - Homecoming (2017)</item>
+        <item>Guardians of the Galaxy Vol. 2 (2017)</item>
+        <item>Dunkirk (2017)</item>
+        <item>Baby Driver (2017)</item>
+        <item>Kingsman - The Golden Circle (2017)</item>
+        <item>Valerian and the City of a Thousand Planets (2017)</item>
+        <item>Logan (2017)</item>
+        <item>Pirates of the Caribbean - Dead Men Tell No Tales (2017)</item>
+        <item>John Wick - Chapter 2 (2017)</item>
+        <item>Kong - Skull Island (2017)</item>
+        <item>King Arthur - Legend of the Sword (2017)</item>
+        <item>The Hitmans Bodyguard (2017)</item>
+        <item>The Fate of the Furious (2017)</item>
+        <item>The Foreigner (2017)</item>
+        <item>American Made (2017)</item>
+        <item>War for the Planet of the Apes (2017)</item>
+        <item>Okja (2017)</item>
+        <item>The LEGO Batman Movie (2017)</item>
+        <item>Descendants 2 (2017 TV Movie)</item>
+        <item>Boone - The Bounty Hunter (2017)</item>
+        <item>Bomb City (2017)</item>
+        <item>All About the Money (2017)</item>
+        <item>Bad Kids of Crestview Academy (2017)</item>
+    </string-array>
+
+    <string-array name="action_2016">
+        <item>Deadpool (2016)</item>
+        <item>Captain America - Civil War (2016)</item>
+        <item>Doctor Strange (2016)</item>
+        <item>Batman v Superman - Dawn of Justice (2016)</item>
+        <item>X-Men - Apocalypse (2016)</item>
+        <item>Rogue One - A Star Wars Story (2016)</item>
+        <item>Star Trek - Beyond (2016)</item>
+        <item>Warcraft - The Beginning (2016)</item>
+        <item>The Magnificent Seven (2016)</item>
+        <item>13 Hours (2016)</item>
+        <item>Jason Bourne (2016)</item>
+        <item>The Accountant (2016)</item>
+        <item>The Nice Guys (2016)</item>
+        <item>Now You See Me 2 (2016)</item>
+        <item>Nerve (2016)</item>
+        <item>Allied (2016)</item>
+        <item>Deepwater Horizon (2016)</item>
+        <item>The Finest Hours (2016)</item>
+        <item>Kubo and the Two Strings (2016)</item>
+        <item>Petes Dragon (2016)</item>
+        <item>Free State of Jones (2016)</item>
+        <item>Kingsglaive - Final Fantasy XV (2016)</item>
+        <item>Hands of Stone (2016)</item>
+    </string-array>
+
+    <string-array name="action_2015">
+        <item>Avengers - Age of Ultron (2015)</item>
+        <item>Everest (2015)</item>
+        <item>Sicario (2015)</item>
+        <item>Star Wars - The Force Awakens (2015)</item>
+        <item>Mad Max - Fury Road (2015)</item>
+        <item>The Man from U.N.C.L.E. (2015)</item>
+        <item>Furious 7 (2015)</item>
+        <item>Spectre (2015)</item>
+        <item>Jurassic World (2015)</item>
+        <item>Ant-Man (2015)</item>
+        <item>In the Heart of the Sea (2015)</item>
+        <item>Terminator Genisys (2015)</item>
+        <item>Mission Impossible - Rogue Nation (2015)</item>
+        <item>Spy (2015)</item>
+        <item>The Hunger Games - Mockingjay - Part 2 (2015)</item>
+        <item>Tomorrowland (2015)</item>
+        <item>Chappie (2015)</item>
+        <item>No Escape (2015)</item>
+        <item>Dope (2015)</item>
+        <item>Run All Night (2015)</item>
+        <item>Hardcore (2015)</item>
+        <item>Self/less (2015)</item>
+        <item>Turbo Kid (2015)</item>
+    </string-array>
+
+    <string-array name="action_2014">
+        <item>Guardians of the Galaxy (2014)</item>
+        <item>John Wick (2014)</item>
+        <item>Captain America - The Winter Soldier (2014)</item>
+        <item>Kingsman - The Secret Service (2014)</item>
+        <item>The Equalizer (2014)</item>
+        <item>The Maze Runner (2014)</item>
+        <item>Fury (2014)</item>
+        <item>X-Men - Days of Future Past (2014)</item>
+        <item>Edge of Tomorrow (2014)</item>
+        <item>American Sniper (2014)</item>
+        <item>The Amazing Spider-Man 2 (2014)</item>
+        <item>Need for Speed (2014)</item>
+        <item>The Hunger Games - Mockingjay - Part 1 (2014)</item>
+        <item>Dawn of the Planet of the Apes (2014)</item>
+        <item>22 Jump Street (2014)</item>
+        <item>Non-Stop (2014)</item>
+        <item>The Purge - Anarchy (2014)</item>
+        <item>The Raid 2 (2014)</item>
+    </string-array>
+
+    <string-array name="action_2013">
+        <item>Pacific Rim (2013)</item>
+        <item>Thor - The Dark World (2013)</item>
+        <item>Iron Man 3 (2013)</item>
+        <item>Oblivion (2013)</item>
+        <item>Man of Steel (2013)</item>
+        <item>Rush (2013)</item>
+        <item>The Hunger Games - Catching Fire (2013)</item>
+        <item>Kick-Ass 2 (2013)</item>
+        <item>World War Z (2013)</item>
+        <item>RED 2 (2013)</item>
+        <item>Fast and Furious 6 (2013)</item>
+        <item>Star Trek - Into Darkness (2013)</item>
+        <item>Lone Survivor (2013)</item>
+        <item>Elysium (2013)</item>
+        <item>The Worlds End (2013)</item>
+        <item>Escape Plan (2013)</item>
+        <item>The Lone Ranger (2013)</item>
+        <item>The Wolverine (2013)</item>
+        <item>The Heat (2013)</item>
+        <item>2 Guns (2013)</item>
+        <item>Olympus Has Fallen (2013)</item>
+        <item>Gangster Squad (2013)</item>
+        <item>Enders Game (2013)</item>
+        <item>Homefront (2013)</item>
+        <item>All Is Lost (2013)</item>
+        <item>Snitch (2013)</item>
+        <item>Dead Man Down (2013)</item>
+    </string-array>
+
+    <string-array name="action_2012">
+        <item>The Avengers (2012)</item>
+        <item>The Dark Knight Rises (2012)</item>
+        <item>Cloud Atlas (2012)</item>
+        <item>Skyfall (2012)</item>
+        <item>Looper (2012)</item>
+        <item>The Amazing Spider-Man (2012)</item>
+        <item>21 Jump Street (2012)</item>
+        <item>Men in Black 3 (2012)</item>
+        <item>John Carter (2012)</item>
+        <item>Dredd (2012)</item>
+        <item>Jack Reacher (2012)</item>
+        <item>Contraband (2012)</item>
+        <item>The Expendables 2 (2012)</item>
+        <item>End of Watch (2012)</item>
+        <item>Project X (2012)</item>
+        <item>Man on a Ledge (2012)</item>
+        <item>Safe House (2012)</item>
+        <item>The Bourne Legacy (2012)</item>
+        <item>Act of Valor (2012)</item>
+        <item>Safe (2012)</item>
+        <item>Get the Gringo (2012)</item>
+        <item>Premium Rush (2012)</item>
+        <item>Stand Up Guys (2012)</item>
+        <item>Chittagong (2012)</item>
+    </string-array>
+
+    <string-array name="action_2011">
+        <item>Captain America - The First Avenger (2011)</item>
+        <item>Thor (2011)</item>
+        <item>Real Steel (2011)</item>
+        <item>Sherlock Holmes - A Game of Shadows (2011)</item>
+        <item>X-Men - First Class (2011)</item>
+        <item>Pirates of the Caribbean - On Stranger Tides (2011)</item>
+        <item>In Time (2011)</item>
+        <item>Mission Impossible - Ghost Protocol (2011)</item>
+        <item>The Adventures of Tintin (2011)</item>
+        <item>Fast Five (2011)</item>
+        <item>Hanna (2011)</item>
+        <item>Rise of the Planet of the Apes (2011)</item>
+        <item>Unknown (2011)</item>
+        <item>The Raid - Redemption (2011)</item>
+        <item>The Grey (2011)</item>
+        <item>The Mechanic (2011)</item>
+        <item>Kill Bill - The Whole Bloody Affair (2011)</item>
+        <item>Machine Gun Preacher (2011)</item>
+    </string-array>
+
+    <string-array name="action_2010">
+        <item>Inception (2010)</item>
+        <item>Scott Pilgrim vs. the World (2010)</item>
+        <item>Iron Man 2 (2010)</item>
+        <item>TRON - Legacy (2010)</item>
+        <item>RED (2010)</item>
+        <item>Kick-Ass (2010)</item>
+        <item>The A-Team (2010)</item>
+        <item>The Other Guys (2010)</item>
+        <item>Prince of Persia - The Sands of Time (2010)</item>
+        <item>The Expendables (2010)</item>
+        <item>Robin Hood (2010)</item>
+        <item>The Book of Eli (2010)</item>
+        <item>Machete (2010)</item>
+        <item>Due Date (2010)</item>
+        <item>Green Zone (2010)</item>
+        <item>The Next Three Days (2010)</item>
+        <item>Unstoppable (2010)</item>
+        <item>Faster (2010)</item>
+        <item>The Yellow Sea (2010)</item>
+        <item>Soldiers (2010)</item>
+        <item>Boy Wonder (2010)</item>
+    </string-array>
+
+    <string-array name="action_2009">
+        <item>Avatar (2009)</item>
+        <item>Watchmen (2009)</item>
+        <item>Star Trek (2009)</item>
+        <item>Sherlock Holmes (2009)</item>
+        <item>X-Men Origins - Wolverine (2009)</item>
+        <item>Fast and Furious (2009)</item>
+        <item>Terminator Salvation (2009)</item>
+        <item>Underworld - Rise of the Lycans (2009)</item>
+        <item>Pandorum (2009)</item>
+        <item>State of Play (2009)</item>
+        <item>Daybreakers (2009)</item>
+        <item>Blood and Bone (2009)</item>
+        <item>Black Dynamite (2009)</item>
+        <item>The International (2009)</item>
+        <item>Ink (2009)</item>
+    </string-array>
+
+    <string-array name="action_2008">
+        <item>The Dark Knight (2008)</item>
+        <item>Iron Man (2008)</item>
+        <item>The Incredible Hulk (2008)</item>
+        <item>Tropic Thunder (2008)</item>
+        <item>Cloverfield (2008)</item>
+        <item>Wanted (2008)</item>
+        <item>Hellboy II - The Golden Army (2008)</item>
+        <item>Quantum of Solace (2008)</item>
+        <item>Pineapple Express (2008)</item>
+        <item>The Chronicles of Narnia - Prince Caspian (2008)</item>
+        <item>Never Back Down (2008)</item>
+        <item>Defiance (2008)</item>
+        <item>RocknRolla (2008)</item>
+        <item>Rambo (2008)</item>
+        <item>Body of Lies (2008)</item>
+        <item>Get Smart (2008)</item>
+        <item>Street Kings (2008)</item>
+        <item>Eagle Eye (2008)</item>
+        <item>The Forbidden Kingdom (2008)</item>
+        <item>Vantage Point (2008)</item>
+        <item>Traitor (2008)</item>
+        <item>The Gamers - Dorkness Rising (2008)</item>
+        <item>Sky Kids (2008)</item>
+    </string-array>
+
+    <string-array name="action_2007">
+        <item>Transformers (2007)</item>
+        <item>Shooter (2007)</item>
+        <item>Death Proof (2007)</item>
+        <item>Pirates of the Caribbean - At Worlds End (2007)</item>
+        <item>Live Free or Die Hard (2007)</item>
+        <item>Planet Terror (2007)</item>
+        <item>Grindhouse (2007)</item>
+        <item>The Bourne Ultimatum (2007)</item>
+        <item>National Treasure - Book of Secrets (2007)</item>
+        <item>Death Sentence (2007)</item>
+        <item>The Kingdom (2007)</item>
+        <item>Elite Squad (2007)</item>
+        <item>Shoot Em Up (2007)</item>
+        <item>Son of Rambow (2007)</item>
+        <item>Battle in Seattle (2007)</item>
+        <item>Battle for Terra (2007)</item>
+    </string-array>
+
+    <string-array name="action_2006">
+        <item>300 (2006)</item>
+        <item>Casino Royale (2006)</item>
+        <item>Apocalypto (2006)</item>
+        <item>Pirates of the Caribbean - Dead Mans Chest (2006)</item>
+        <item>X-Men - The Last Stand (2006)</item>
+        <item>Deja Vu (2006)</item>
+        <item>Mission - Impossible III (2006)</item>
+        <item>Smokin Aces (2006)</item>
+        <item>Crank (2006)</item>
+        <item>Underworld - Evolution (2006)</item>
+        <item>The Guardian (2006)</item>
+        <item>Running Scared (2006)</item>
+        <item>16 Blocks (2006)</item>
+        <item>Seraphim Falls (2006)</item>
+    </string-array>
+
+    <string-array name="action_2005">
+        <item>Batman Begins (2005)</item>
+        <item>V for Vendetta (2005)</item>
+        <item>King Kong (2005)</item>
+        <item>Mr. and Mrs. Smith (2005)</item>
+        <item>Kingdom of Heaven (2005)</item>
+        <item>Serenity (2005)</item>
+        <item>Hostage (2005)</item>
+        <item>The Island (2005)</item>
+        <item>Four Brothers (2005)</item>
+        <item>Brick (2005)</item>
+        <item>Harsh Times (2005)</item>
+        <item>Chaos (2005)</item>
+        <item>The Great Raid (2005)</item>
+        <item>Unleashed (2005)</item>
+        <item>The Protector (2005)</item>
+    </string-array>
+
+    <string-array name="action_2004">
+        <item>Hellboy (2004)</item>
+        <item>Kill Bill - Vol. 2 (2004)</item>
+        <item>National Treasure (2004)</item>
+        <item>Dawn of the Dead (2004)</item>
+        <item>Spider-Man 2 (2004)</item>
+        <item>Man on Fire (2004)</item>
+        <item>I, Robot (2004)</item>
+        <item>The Punisher (2004)</item>
+        <item>The Bourne Supremacy (2004)</item>
+        <item>The Chronicles of Riddick (2004)</item>
+        <item>Friday Night Lights (2004)</item>
+        <item>Cellular (2004)</item>
+    </string-array>
+
+    <string-array name="action_2003">
+        <item>Kill Bill - Vol. 1 (2003)</item>
+        <item>The Matrix Reloaded (2003)</item>
+        <item>X-Men 2 (2003)</item>
+        <item>The Last Samurai (2003)</item>
+        <item>Underworld (2003)</item>
+        <item>The Italian Job (2003)</item>
+        <item>Tears of the Sun (2003)</item>
+        <item>Bad Boys II (2003)</item>
+        <item>The Rundown (2003)</item>
+        <item>Matrix Revolutions (2003)</item>
+        <item>The Recruit (2003)</item>
+    </string-array>
+
+    <string-array name="action_2002">
+        <item>Minority Report (2002)</item>
+        <item>The Bourne Identity (2002)</item>
+        <item>Blade II (2002)</item>
+        <item>Equilibrium (2002)</item>
+        <item>The Transporter (2002)</item>
+    </string-array>
+
+    <string-array name="action_2001">
+        <item>The Fast and the Furious (2001)</item>
+        <item>Rush Hour 2 (2001)</item>
+        <item>Gladiator (2000)</item>
+    </string-array>
+
+</resources>

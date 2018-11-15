@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <Button
+        android:text="@string/EnteringActivity_buttonChooseGenre"
+        android:layout_width="345dp"
+        android:layout_height="230dp"
+        android:textSize="35sp"
+        android:background="@drawable/buttonbg_l_xlarge"
+        android:textColor="@drawable/buttontextcolor"
+        android:textStyle="bold"
+        android:id="@+id/button4"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="@string/EnteringActivity_buttonRandom"
+        android:layout_width="345dp"
+        android:layout_height="230dp"
+        android:textSize="35sp"
+        android:background="@drawable/buttonbg_xlarge"
+        android:textColor="@drawable/buttontextcolor"
+        android:textStyle="bold"
+        android:id="@+id/button5"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="138dp"
+        android:layout_height="161dp"
+        android:id="@+id/logo"
+        android:background="@drawable/logo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp"
+        android:contentDescription="" />
+
+    <TextView
+        android:text="@string/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#d9d9d9"
+        android:textSize="70sp"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:id="@+id/textView4" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/info"
+        android:background="@mipmap/info"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:text="@string/EnteringActivity_buttonDisabledMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:padding="15dp"
+        android:background="#00000000"
+        android:gravity="center"
+        android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/EnteringActivity_buttonFavouriteMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:padding="15dp"
+        android:background="#00000000"
+        android:gravity="center"
+        android:id="@+id/buttonFav"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
